@@ -1,22 +1,6 @@
 {
   "0": {
-    "text": [
-      "Boot",
-      "time",
-      "is",
-      "super",
-      "fast",
-      ",",
-      "around",
-      "anywhere",
-      "from",
-      "35",
-      "seconds",
-      "to",
-      "1",
-      "minute",
-      "."
-    ],
+    "text": "Boot time is super fast , around anywhere from 35 seconds to 1 minute .",
     "labels": [
       "B",
       "I",
@@ -36,25 +20,7 @@
     ]
   },
   "1": {
-    "text": [
-      "tech",
-      "support",
-      "would",
-      "not",
-      "fix",
-      "the",
-      "problem",
-      "unless",
-      "I",
-      "bought",
-      "your",
-      "plan",
-      "for",
-      "$",
-      "150",
-      "plus",
-      "."
-    ],
+    "text": "tech support would not fix the problem unless I bought your plan for $ 150 plus .",
     "labels": [
       "B",
       "I",
@@ -76,13 +42,7 @@
     ]
   },
   "2": {
-    "text": [
-      "Set",
-      "up",
-      "was",
-      "easy",
-      "."
-    ],
+    "text": "Set up was easy .",
     "labels": [
       "B",
       "I",
@@ -92,19 +52,7 @@
     ]
   },
   "3": {
-    "text": [
-      "Did",
-      "not",
-      "enjoy",
-      "the",
-      "new",
-      "Windows",
-      "8",
-      "and",
-      "touchscreen",
-      "functions",
-      "."
-    ],
+    "text": "Did not enjoy the new Windows 8 and touchscreen functions .",
     "labels": [
       "O",
       "O",
@@ -120,53 +68,7 @@
     ]
   },
   "4": {
-    "text": [
-      "Other",
-      "than",
-      "not",
-      "being",
-      "a",
-      "fan",
-      "of",
-      "click",
-      "pads",
-      "(",
-      "industry",
-      "standard",
-      "these",
-      "days",
-      ")",
-      "and",
-      "the",
-      "lousy",
-      "internal",
-      "speakers",
-      ",",
-      "it",
-      "'s",
-      "hard",
-      "for",
-      "me",
-      "to",
-      "find",
-      "things",
-      "about",
-      "this",
-      "notebook",
-      "I",
-      "do",
-      "n't",
-      "like",
-      ",",
-      "especially",
-      "considering",
-      "the",
-      "$",
-      "350",
-      "price",
-      "tag",
-      "."
-    ],
+    "text": "Other than not being a fan of click pads ( industry standard these days ) and the lousy internal speakers , it 's hard for me to find things about this notebook I do n't like , especially considering the $ 350 price tag .",
     "labels": [
       "O",
       "O",
@@ -216,19 +118,7 @@
     ]
   },
   "5": {
-    "text": [
-      "It",
-      "'s",
-      "fast",
-      ",",
-      "light",
-      ",",
-      "and",
-      "simple",
-      "to",
-      "use",
-      "."
-    ],
+    "text": "It 's fast , light , and simple to use .",
     "labels": [
       "O",
       "O",
@@ -244,24 +134,7 @@
     ]
   },
   "6": {
-    "text": [
-      "Works",
-      "well",
-      ",",
-      "and",
-      "I",
-      "am",
-      "extremely",
-      "happy",
-      "to",
-      "be",
-      "back",
-      "to",
-      "an",
-      "apple",
-      "OS",
-      "."
-    ],
+    "text": "Works well , and I am extremely happy to be back to an apple OS .",
     "labels": [
       "B",
       "O",
@@ -282,25 +155,7 @@
     ]
   },
   "7": {
-    "text": [
-      "Sure",
-      "it",
-      "'s",
-      "not",
-      "light",
-      "and",
-      "slim",
-      "but",
-      "the",
-      "features",
-      "make",
-      "up",
-      "for",
-      "it",
-      "100",
-      "%",
-      "."
-    ],
+    "text": "Sure it 's not light and slim but the features make up for it 100 % .",
     "labels": [
       "O",
       "O",
@@ -322,31 +177,7 @@
     ]
   },
   "8": {
-    "text": [
-      "I",
-      "am",
-      "pleased",
-      "with",
-      "the",
-      "fast",
-      "log",
-      "on",
-      ",",
-      "speedy",
-      "WiFi",
-      "connection",
-      "and",
-      "the",
-      "long",
-      "battery",
-      "life",
-      "(",
-      ">",
-      "6",
-      "hrs",
-      ")",
-      "."
-    ],
+    "text": "I am pleased with the fast log on , speedy WiFi connection and the long battery life ( > 6 hrs ) .",
     "labels": [
       "O",
       "O",
@@ -374,19 +205,7 @@
     ]
   },
   "9": {
-    "text": [
-      "The",
-      "Apple",
-      "engineers",
-      "have",
-      "not",
-      "yet",
-      "discovered",
-      "the",
-      "delete",
-      "key",
-      "."
-    ],
+    "text": "The Apple engineers have not yet discovered the delete key .",
     "labels": [
       "O",
       "O",
@@ -402,21 +221,7 @@
     ]
   },
   "10": {
-    "text": [
-      "Made",
-      "interneting",
-      "(",
-      "part",
-      "of",
-      "my",
-      "business",
-      ")",
-      "very",
-      "difficult",
-      "to",
-      "maintain",
-      "."
-    ],
+    "text": "Made interneting ( part of my business ) very difficult to maintain .",
     "labels": [
       "O",
       "B",
@@ -434,26 +239,7 @@
     ]
   },
   "11": {
-    "text": [
-      "Luckily",
-      ",",
-      "for",
-      "all",
-      "of",
-      "us",
-      "contemplating",
-      "the",
-      "decision",
-      ",",
-      "the",
-      "Mac",
-      "Mini",
-      "is",
-      "priced",
-      "just",
-      "right",
-      "."
-    ],
+    "text": "Luckily , for all of us contemplating the decision , the Mac Mini is priced just right .",
     "labels": [
       "O",
       "O",
@@ -476,45 +262,7 @@
     ]
   },
   "12": {
-    "text": [
-      "Only",
-      "problem",
-      "that",
-      "I",
-      "had",
-      "was",
-      "that",
-      "the",
-      "track",
-      "pad",
-      "was",
-      "not",
-      "very",
-      "good",
-      "for",
-      "me",
-      ",",
-      "I",
-      "only",
-      "had",
-      "a",
-      "problem",
-      "once",
-      "or",
-      "twice",
-      "with",
-      "it",
-      ",",
-      "But",
-      "probably",
-      "my",
-      "computer",
-      "was",
-      "a",
-      "bit",
-      "defective",
-      "."
-    ],
+    "text": "Only problem that I had was that the track pad was not very good for me , I only had a problem once or twice with it , But probably my computer was a bit defective .",
     "labels": [
       "O",
       "O",
@@ -556,17 +304,7 @@
     ]
   },
   "13": {
-    "text": [
-      "It",
-      "is",
-      "super",
-      "fast",
-      "and",
-      "has",
-      "outstanding",
-      "graphics",
-      "."
-    ],
+    "text": "It is super fast and has outstanding graphics .",
     "labels": [
       "O",
       "O",
@@ -580,17 +318,7 @@
     ]
   },
   "14": {
-    "text": [
-      "But",
-      "the",
-      "mountain",
-      "lion",
-      "is",
-      "just",
-      "too",
-      "slow",
-      "."
-    ],
+    "text": "But the mountain lion is just too slow .",
     "labels": [
       "O",
       "O",
@@ -604,18 +332,7 @@
     ]
   },
   "15": {
-    "text": [
-      "Strong",
-      "build",
-      "though",
-      "which",
-      "really",
-      "adds",
-      "to",
-      "its",
-      "durability",
-      "."
-    ],
+    "text": "Strong build though which really adds to its durability .",
     "labels": [
       "O",
       "B",
@@ -630,19 +347,7 @@
     ]
   },
   "16": {
-    "text": [
-      "The",
-      "battery",
-      "life",
-      "is",
-      "excellent",
-      "--",
-      "6-7",
-      "hours",
-      "without",
-      "charging",
-      "."
-    ],
+    "text": "The battery life is excellent -- 6-7 hours without charging .",
     "labels": [
       "O",
       "B",
@@ -658,22 +363,7 @@
     ]
   },
   "17": {
-    "text": [
-      "I",
-      "'ve",
-      "had",
-      "my",
-      "computer",
-      "for",
-      "2",
-      "weeks",
-      "already",
-      "and",
-      "it",
-      "works",
-      "perfectly",
-      "."
-    ],
+    "text": "I 've had my computer for 2 weeks already and it works perfectly .",
     "labels": [
       "O",
       "O",
@@ -692,23 +382,7 @@
     ]
   },
   "18": {
-    "text": [
-      "And",
-      "I",
-      "may",
-      "be",
-      "the",
-      "only",
-      "one",
-      "but",
-      "I",
-      "am",
-      "really",
-      "liking",
-      "Windows",
-      "8",
-      "."
-    ],
+    "text": "And I may be the only one but I am really liking Windows 8 .",
     "labels": [
       "O",
       "O",
@@ -728,14 +402,7 @@
     ]
   },
   "19": {
-    "text": [
-      "The",
-      "baterry",
-      "is",
-      "very",
-      "longer",
-      "."
-    ],
+    "text": "The baterry is very longer .",
     "labels": [
       "O",
       "B",
@@ -746,18 +413,7 @@
     ]
   },
   "20": {
-    "text": [
-      "Its",
-      "size",
-      "is",
-      "ideal",
-      "and",
-      "the",
-      "weight",
-      "is",
-      "acceptable",
-      "."
-    ],
+    "text": "Its size is ideal and the weight is acceptable .",
     "labels": [
       "O",
       "B",
@@ -772,25 +428,7 @@
     ]
   },
   "21": {
-    "text": [
-      "I",
-      "can",
-      "say",
-      "that",
-      "I",
-      "am",
-      "fully",
-      "satisfied",
-      "with",
-      "the",
-      "performance",
-      "that",
-      "the",
-      "computer",
-      "has",
-      "supplied",
-      "."
-    ],
+    "text": "I can say that I am fully satisfied with the performance that the computer has supplied .",
     "labels": [
       "O",
       "O",
@@ -812,21 +450,7 @@
     ]
   },
   "22": {
-    "text": [
-      "It",
-      "has",
-      "so",
-      "much",
-      "more",
-      "speed",
-      "and",
-      "the",
-      "screen",
-      "is",
-      "very",
-      "sharp",
-      "."
-    ],
+    "text": "It has so much more speed and the screen is very sharp .",
     "labels": [
       "O",
       "O",
@@ -844,21 +468,7 @@
     ]
   },
   "23": {
-    "text": [
-      "Everything",
-      "I",
-      "wanted",
-      "and",
-      "everything",
-      "I",
-      "needed",
-      "and",
-      "the",
-      "price",
-      "was",
-      "great",
-      "!"
-    ],
+    "text": "Everything I wanted and everything I needed and the price was great !",
     "labels": [
       "O",
       "O",
@@ -876,24 +486,7 @@
     ]
   },
   "24": {
-    "text": [
-      "It",
-      "'s",
-      "not",
-      "inexpensive",
-      "but",
-      "the",
-      "Hardware",
-      "performance",
-      "is",
-      "impressive",
-      "for",
-      "a",
-      "computer",
-      "this",
-      "small",
-      "."
-    ],
+    "text": "It 's not inexpensive but the Hardware performance is impressive for a computer this small .",
     "labels": [
       "O",
       "O",
@@ -914,37 +507,7 @@
     ]
   },
   "25": {
-    "text": [
-      "This",
-      "thing",
-      "is",
-      "awesome",
-      ",",
-      "everything",
-      "always",
-      "works",
-      ",",
-      "everything",
-      "is",
-      "always",
-      "easy",
-      "to",
-      "set",
-      "up",
-      ",",
-      "everything",
-      "is",
-      "compatible",
-      ",",
-      "its",
-      "literally",
-      "everything",
-      "I",
-      "could",
-      "ask",
-      "for",
-      "."
-    ],
+    "text": "This thing is awesome , everything always works , everything is always easy to set up , everything is compatible , its literally everything I could ask for .",
     "labels": [
       "O",
       "O",
@@ -978,14 +541,7 @@
     ]
   },
   "26": {
-    "text": [
-      "Keyboard",
-      "responds",
-      "well",
-      "to",
-      "presses",
-      "."
-    ],
+    "text": "Keyboard responds well to presses .",
     "labels": [
       "B",
       "O",
@@ -996,15 +552,7 @@
     ]
   },
   "27": {
-    "text": [
-      "Lastly",
-      ",",
-      "Windows",
-      "8",
-      "is",
-      "annoying",
-      "."
-    ],
+    "text": "Lastly , Windows 8 is annoying .",
     "labels": [
       "O",
       "O",
@@ -1016,19 +564,7 @@
     ]
   },
   "28": {
-    "text": [
-      "Everything",
-      "is",
-      "so",
-      "easy",
-      "and",
-      "intuitive",
-      "to",
-      "setup",
-      "or",
-      "configure",
-      "."
-    ],
+    "text": "Everything is so easy and intuitive to setup or configure .",
     "labels": [
       "O",
       "O",
@@ -1044,14 +580,7 @@
     ]
   },
   "29": {
-    "text": [
-      "Biggest",
-      "complaint",
-      "is",
-      "Windows",
-      "8",
-      "."
-    ],
+    "text": "Biggest complaint is Windows 8 .",
     "labels": [
       "O",
       "O",
@@ -1062,19 +591,7 @@
     ]
   },
   "30": {
-    "text": [
-      "Only",
-      "2",
-      "usb",
-      "ports",
-      "...",
-      "seems",
-      "kind",
-      "of",
-      "...",
-      "limited",
-      "."
-    ],
+    "text": "Only 2 usb ports ... seems kind of ... limited .",
     "labels": [
       "O",
       "O",
@@ -1090,26 +607,7 @@
     ]
   },
   "31": {
-    "text": [
-      "It",
-      "has",
-      "all",
-      "the",
-      "expected",
-      "features",
-      "and",
-      "more",
-      "+plus",
-      "a",
-      "wide",
-      "screen",
-      "and",
-      "more",
-      "than",
-      "roomy",
-      "keyboard",
-      "."
-    ],
+    "text": "It has all the expected features and more +plus a wide screen and more than roomy keyboard .",
     "labels": [
       "O",
       "O",
@@ -1132,17 +630,7 @@
     ]
   },
   "32": {
-    "text": [
-      "Amazing",
-      "Performance",
-      "for",
-      "anything",
-      "I",
-      "throw",
-      "at",
-      "it",
-      "."
-    ],
+    "text": "Amazing Performance for anything I throw at it .",
     "labels": [
       "O",
       "B",
@@ -1156,20 +644,7 @@
     ]
   },
   "33": {
-    "text": [
-      "The",
-      "receiver",
-      "was",
-      "full",
-      "of",
-      "superlatives",
-      "for",
-      "the",
-      "quality",
-      "and",
-      "performance",
-      "."
-    ],
+    "text": "The receiver was full of superlatives for the quality and performance .",
     "labels": [
       "O",
       "O",
@@ -1186,17 +661,7 @@
     ]
   },
   "34": {
-    "text": [
-      "I",
-      "was",
-      "extremely",
-      "happy",
-      "with",
-      "the",
-      "OS",
-      "itself",
-      "."
-    ],
+    "text": "I was extremely happy with the OS itself .",
     "labels": [
       "O",
       "O",
@@ -1210,34 +675,7 @@
     ]
   },
   "35": {
-    "text": [
-      "The",
-      "new",
-      "MBP",
-      "offers",
-      "great",
-      "portability",
-      "and",
-      "gives",
-      "us",
-      "confidence",
-      "that",
-      "we",
-      "are",
-      "not",
-      "going",
-      "to",
-      "need",
-      "to",
-      "purchase",
-      "a",
-      "new",
-      "laptop",
-      "in",
-      "18",
-      "months",
-      "."
-    ],
+    "text": "The new MBP offers great portability and gives us confidence that we are not going to need to purchase a new laptop in 18 months .",
     "labels": [
       "O",
       "O",
@@ -1268,29 +706,7 @@
     ]
   },
   "36": {
-    "text": [
-      "The",
-      "criticism",
-      "has",
-      "waned",
-      ",",
-      "and",
-      "now",
-      "I",
-      "'d",
-      "be",
-      "the",
-      "first",
-      "to",
-      "recommend",
-      "an",
-      "Air",
-      "for",
-      "truly",
-      "portable",
-      "computing",
-      "."
-    ],
+    "text": "The criticism has waned , and now I 'd be the first to recommend an Air for truly portable computing .",
     "labels": [
       "O",
       "O",
@@ -1316,20 +732,7 @@
     ]
   },
   "37": {
-    "text": [
-      "MS",
-      "Office",
-      "2011",
-      "for",
-      "Mac",
-      "is",
-      "wonderful",
-      ",",
-      "well",
-      "worth",
-      "it",
-      "."
-    ],
+    "text": "MS Office 2011 for Mac is wonderful , well worth it .",
     "labels": [
       "B",
       "I",
@@ -1346,19 +749,7 @@
     ]
   },
   "38": {
-    "text": [
-      "But",
-      "the",
-      "performance",
-      "of",
-      "Mac",
-      "Mini",
-      "is",
-      "a",
-      "huge",
-      "disappointment",
-      "."
-    ],
+    "text": "But the performance of Mac Mini is a huge disappointment .",
     "labels": [
       "O",
       "O",
@@ -1374,20 +765,7 @@
     ]
   },
   "39": {
-    "text": [
-      "They",
-      "do",
-      "n't",
-      "just",
-      "look",
-      "good",
-      ";",
-      "they",
-      "deliver",
-      "excellent",
-      "performance",
-      "."
-    ],
+    "text": "They do n't just look good ; they deliver excellent performance .",
     "labels": [
       "O",
       "O",
@@ -1404,42 +782,7 @@
     ]
   },
   "40": {
-    "text": [
-      "I",
-      "have",
-      "had",
-      "it",
-      "over",
-      "a",
-      "year",
-      "now",
-      "with",
-      "out",
-      "a",
-      "Glitch",
-      "of",
-      "any",
-      "kind..I",
-      "love",
-      "the",
-      "lit",
-      "up",
-      "keys",
-      "and",
-      "screen",
-      "display",
-      "...",
-      "this",
-      "thing",
-      "is",
-      "Fast",
-      "and",
-      "clear",
-      "as",
-      "can",
-      "be",
-      "."
-    ],
+    "text": "I have had it over a year now with out a Glitch of any kind..I love the lit up keys and screen display ... this thing is Fast and clear as can be .",
     "labels": [
       "O",
       "O",
@@ -1478,26 +821,7 @@
     ]
   },
   "41": {
-    "text": [
-      "The",
-      "Mountain",
-      "Lion",
-      "OS",
-      "is",
-      "not",
-      "hard",
-      "to",
-      "figure",
-      "out",
-      "if",
-      "you",
-      "are",
-      "familiar",
-      "with",
-      "Microsoft",
-      "Windows",
-      "."
-    ],
+    "text": "The Mountain Lion OS is not hard to figure out if you are familiar with Microsoft Windows .",
     "labels": [
       "O",
       "B",
@@ -1520,20 +844,7 @@
     ]
   },
   "42": {
-    "text": [
-      "However",
-      ",",
-      "I",
-      "can",
-      "refute",
-      "that",
-      "OSX",
-      "is",
-      "``",
-      "FAST",
-      "''",
-      "."
-    ],
+    "text": "However , I can refute that OSX is `` FAST '' .",
     "labels": [
       "O",
       "O",
@@ -1550,13 +861,7 @@
     ]
   },
   "43": {
-    "text": [
-      "Enjoy",
-      "using",
-      "Microsoft",
-      "Office",
-      "!"
-    ],
+    "text": "Enjoy using Microsoft Office !",
     "labels": [
       "O",
       "O",
@@ -1566,14 +871,7 @@
     ]
   },
   "44": {
-    "text": [
-      "Incredible",
-      "graphics",
-      "and",
-      "brilliant",
-      "colors",
-      "."
-    ],
+    "text": "Incredible graphics and brilliant colors .",
     "labels": [
       "O",
       "B",
@@ -1584,14 +882,7 @@
     ]
   },
   "45": {
-    "text": [
-      "Built-in",
-      "apps",
-      "are",
-      "purely",
-      "amazing",
-      "."
-    ],
+    "text": "Built-in apps are purely amazing .",
     "labels": [
       "B",
       "I",
@@ -1602,23 +893,7 @@
     ]
   },
   "46": {
-    "text": [
-      "From",
-      "the",
-      "speed",
-      "to",
-      "the",
-      "multi",
-      "touch",
-      "gestures",
-      "this",
-      "operating",
-      "system",
-      "beats",
-      "Windows",
-      "easily",
-      "."
-    ],
+    "text": "From the speed to the multi touch gestures this operating system beats Windows easily .",
     "labels": [
       "O",
       "O",
@@ -1638,22 +913,7 @@
     ]
   },
   "47": {
-    "text": [
-      "I",
-      "really",
-      "like",
-      "the",
-      "size",
-      "and",
-      "I",
-      "'m",
-      "a",
-      "fan",
-      "of",
-      "the",
-      "ACERS",
-      "."
-    ],
+    "text": "I really like the size and I 'm a fan of the ACERS .",
     "labels": [
       "O",
       "O",
@@ -1672,39 +932,7 @@
     ]
   },
   "48": {
-    "text": [
-      "I",
-      "opted",
-      "for",
-      "the",
-      "SquareTrade",
-      "3-Year",
-      "Computer",
-      "Accidental",
-      "Protection",
-      "Warranty",
-      "(",
-      "$",
-      "1500-2000",
-      ")",
-      "which",
-      "also",
-      "support",
-      "``",
-      "accidents",
-      "''",
-      "like",
-      "drops",
-      "and",
-      "spills",
-      "that",
-      "are",
-      "NOT",
-      "covered",
-      "by",
-      "AppleCare",
-      "."
-    ],
+    "text": "I opted for the SquareTrade 3-Year Computer Accidental Protection Warranty ( $ 1500-2000 ) which also support `` accidents '' like drops and spills that are NOT covered by AppleCare .",
     "labels": [
       "O",
       "O",
@@ -1740,16 +968,7 @@
     ]
   },
   "49": {
-    "text": [
-      "It",
-      "'s",
-      "light",
-      "and",
-      "easy",
-      "to",
-      "transport",
-      "."
-    ],
+    "text": "It 's light and easy to transport .",
     "labels": [
       "O",
       "O",
@@ -1762,27 +981,7 @@
     ]
   },
   "50": {
-    "text": [
-      "Once",
-      "you",
-      "get",
-      "past",
-      "learning",
-      "how",
-      "to",
-      "use",
-      "the",
-      "poorly",
-      "designed",
-      "Windows",
-      "8",
-      "Set-Up",
-      "you",
-      "may",
-      "feel",
-      "frustrated",
-      "."
-    ],
+    "text": "Once you get past learning how to use the poorly designed Windows 8 Set-Up you may feel frustrated .",
     "labels": [
       "O",
       "O",
@@ -1806,17 +1005,7 @@
     ]
   },
   "51": {
-    "text": [
-      "The",
-      "aluminum",
-      "body",
-      "sure",
-      "makes",
-      "it",
-      "stand",
-      "out",
-      "."
-    ],
+    "text": "The aluminum body sure makes it stand out .",
     "labels": [
       "O",
       "B",
@@ -1830,25 +1019,7 @@
     ]
   },
   "52": {
-    "text": [
-      "It",
-      "is",
-      "very",
-      "easy",
-      "to",
-      "integrate",
-      "bluetooth",
-      "devices",
-      ",",
-      "and",
-      "USB",
-      "devices",
-      "are",
-      "recognized",
-      "almost",
-      "instantly",
-      "."
-    ],
+    "text": "It is very easy to integrate bluetooth devices , and USB devices are recognized almost instantly .",
     "labels": [
       "O",
       "O",
@@ -1870,30 +1041,7 @@
     ]
   },
   "53": {
-    "text": [
-      "And",
-      "the",
-      "fact",
-      "that",
-      "Apple",
-      "is",
-      "driving",
-      "the",
-      "13",
-      "''",
-      "RMBP",
-      "with",
-      "the",
-      "Intel4000",
-      "graphic",
-      "chip",
-      "seems",
-      "underpowered",
-      "(",
-      "to",
-      "me",
-      "."
-    ],
+    "text": "And the fact that Apple is driving the 13 '' RMBP with the Intel4000 graphic chip seems underpowered ( to me .",
     "labels": [
       "O",
       "O",
@@ -1920,34 +1068,7 @@
     ]
   },
   "54": {
-    "text": [
-      "Apple",
-      "removed",
-      "the",
-      "DVD",
-      "drive",
-      "Firewire",
-      "port",
-      "(",
-      "will",
-      "work",
-      "with",
-      "adapter",
-      ")",
-      "and",
-      "put",
-      "the",
-      "SDXC",
-      "slot",
-      "in",
-      "a",
-      "silly",
-      "position",
-      "on",
-      "the",
-      "back",
-      "."
-    ],
+    "text": "Apple removed the DVD drive Firewire port ( will work with adapter ) and put the SDXC slot in a silly position on the back .",
     "labels": [
       "O",
       "O",
@@ -1978,20 +1099,7 @@
     ]
   },
   "55": {
-    "text": [
-      "The",
-      "durability",
-      "of",
-      "the",
-      "laptop",
-      "will",
-      "make",
-      "it",
-      "worth",
-      "the",
-      "money",
-      "."
-    ],
+    "text": "The durability of the laptop will make it worth the money .",
     "labels": [
       "O",
       "B",
@@ -2008,13 +1116,7 @@
     ]
   },
   "56": {
-    "text": [
-      "Well",
-      "designed",
-      "and",
-      "fast",
-      "."
-    ],
+    "text": "Well designed and fast .",
     "labels": [
       "O",
       "B",
@@ -2024,24 +1126,7 @@
     ]
   },
   "57": {
-    "text": [
-      "But",
-      "I",
-      "was",
-      "completely",
-      "wrong",
-      ",",
-      "this",
-      "computer",
-      "is",
-      "UNBELIEVABLE",
-      "amazing",
-      "and",
-      "easy",
-      "to",
-      "use",
-      "."
-    ],
+    "text": "But I was completely wrong , this computer is UNBELIEVABLE amazing and easy to use .",
     "labels": [
       "O",
       "O",
@@ -2062,16 +1147,7 @@
     ]
   },
   "58": {
-    "text": [
-      "Exactly",
-      "as",
-      "posted",
-      "plus",
-      "a",
-      "great",
-      "value",
-      "."
-    ],
+    "text": "Exactly as posted plus a great value .",
     "labels": [
       "O",
       "O",
@@ -2084,15 +1160,7 @@
     ]
   },
   "59": {
-    "text": [
-      "The",
-      "specs",
-      "are",
-      "pretty",
-      "good",
-      "too",
-      "."
-    ],
+    "text": "The specs are pretty good too .",
     "labels": [
       "O",
       "B",
@@ -2104,23 +1172,7 @@
     ]
   },
   "60": {
-    "text": [
-      "Apple",
-      "is",
-      "unmatched",
-      "in",
-      "product",
-      "quality",
-      ",",
-      "aesthetics",
-      ",",
-      "craftmanship",
-      ",",
-      "and",
-      "customer",
-      "service",
-      "."
-    ],
+    "text": "Apple is unmatched in product quality , aesthetics , craftmanship , and customer service .",
     "labels": [
       "O",
       "O",
@@ -2140,19 +1192,7 @@
     ]
   },
   "61": {
-    "text": [
-      "It",
-      "is",
-      "a",
-      "great",
-      "size",
-      "and",
-      "amazing",
-      "windows",
-      "8",
-      "included",
-      "!"
-    ],
+    "text": "It is a great size and amazing windows 8 included !",
     "labels": [
       "O",
       "O",
@@ -2168,17 +1208,7 @@
     ]
   },
   "62": {
-    "text": [
-      "I",
-      "do",
-      "not",
-      "like",
-      "too",
-      "much",
-      "Windows",
-      "8",
-      "."
-    ],
+    "text": "I do not like too much Windows 8 .",
     "labels": [
       "O",
       "O",
@@ -2192,18 +1222,7 @@
     ]
   },
   "63": {
-    "text": [
-      "Startup",
-      "times",
-      "are",
-      "incredibly",
-      "long",
-      ":",
-      "over",
-      "two",
-      "minutes",
-      "."
-    ],
+    "text": "Startup times are incredibly long : over two minutes .",
     "labels": [
       "B",
       "I",
@@ -2218,13 +1237,7 @@
     ]
   },
   "64": {
-    "text": [
-      "Also",
-      "stunning",
-      "colors",
-      "and",
-      "speedy"
-    ],
+    "text": "Also stunning colors and speedy",
     "labels": [
       "O",
       "O",
@@ -2234,20 +1247,7 @@
     ]
   },
   "65": {
-    "text": [
-      "great",
-      "price",
-      "free",
-      "shipping",
-      "what",
-      "else",
-      "can",
-      "i",
-      "ask",
-      "for",
-      "!",
-      "!"
-    ],
+    "text": "great price free shipping what else can i ask for ! !",
     "labels": [
       "O",
       "B",
@@ -2264,13 +1264,7 @@
     ]
   },
   "66": {
-    "text": [
-      "This",
-      "mouse",
-      "is",
-      "terrific",
-      "."
-    ],
+    "text": "This mouse is terrific .",
     "labels": [
       "O",
       "B",
@@ -2280,16 +1274,7 @@
     ]
   },
   "67": {
-    "text": [
-      "It",
-      "is",
-      "really",
-      "thick",
-      "around",
-      "the",
-      "battery",
-      "."
-    ],
+    "text": "It is really thick around the battery .",
     "labels": [
       "O",
       "O",
@@ -2302,16 +1287,7 @@
     ]
   },
   "68": {
-    "text": [
-      "And",
-      "windows",
-      "7",
-      "works",
-      "like",
-      "a",
-      "charm",
-      "."
-    ],
+    "text": "And windows 7 works like a charm .",
     "labels": [
       "O",
       "B",
@@ -2324,23 +1300,7 @@
     ]
   },
   "69": {
-    "text": [
-      ":",
-      ")",
-      "Great",
-      "product",
-      ",",
-      "great",
-      "price",
-      ",",
-      "great",
-      "delivery",
-      ",",
-      "and",
-      "great",
-      "service",
-      "."
-    ],
+    "text": ": ) Great product , great price , great delivery , and great service .",
     "labels": [
       "O",
       "O",
@@ -2360,20 +1320,7 @@
     ]
   },
   "70": {
-    "text": [
-      ":",
-      "]",
-      "It",
-      "arrived",
-      "so",
-      "fast",
-      "and",
-      "customer",
-      "service",
-      "was",
-      "great",
-      "."
-    ],
+    "text": ": ] It arrived so fast and customer service was great .",
     "labels": [
       "O",
       "O",
@@ -2390,17 +1337,7 @@
     ]
   },
   "71": {
-    "text": [
-      "tried",
-      "windows",
-      "8",
-      "and",
-      "hated",
-      "it",
-      "!",
-      "!",
-      "!"
-    ],
+    "text": "tried windows 8 and hated it ! ! !",
     "labels": [
       "O",
       "B",
@@ -2414,14 +1351,7 @@
     ]
   },
   "72": {
-    "text": [
-      "Set",
-      "up",
-      "was",
-      "a",
-      "breeze",
-      "."
-    ],
+    "text": "Set up was a breeze .",
     "labels": [
       "B",
       "I",
@@ -2432,15 +1362,7 @@
     ]
   },
   "73": {
-    "text": [
-      "But",
-      "I",
-      "do",
-      "NOT",
-      "like",
-      "Win8",
-      "."
-    ],
+    "text": "But I do NOT like Win8 .",
     "labels": [
       "O",
       "O",
@@ -2452,33 +1374,7 @@
     ]
   },
   "74": {
-    "text": [
-      "I",
-      "had",
-      "the",
-      "same",
-      "reasons",
-      "as",
-      "most",
-      "PC",
-      "users",
-      ":",
-      "the",
-      "price",
-      ",",
-      "the",
-      "overbearing",
-      "restrictions",
-      "of",
-      "OSX",
-      "and",
-      "lack",
-      "of",
-      "support",
-      "for",
-      "games",
-      "."
-    ],
+    "text": "I had the same reasons as most PC users : the price , the overbearing restrictions of OSX and lack of support for games .",
     "labels": [
       "O",
       "O",
@@ -2508,26 +1404,7 @@
     ]
   },
   "75": {
-    "text": [
-      "I",
-      "wanted",
-      "it",
-      "for",
-      "it",
-      "'s",
-      "mobility",
-      "and",
-      "man",
-      ",",
-      "this",
-      "little",
-      "bad",
-      "boy",
-      "is",
-      "very",
-      "nice",
-      "."
-    ],
+    "text": "I wanted it for it 's mobility and man , this little bad boy is very nice .",
     "labels": [
       "O",
       "O",
@@ -2550,20 +1427,7 @@
     ]
   },
   "76": {
-    "text": [
-      "I",
-      "found",
-      "the",
-      "mini",
-      "to",
-      "be",
-      ":",
-      "Exceptionally",
-      "easy",
-      "to",
-      "set",
-      "up"
-    ],
+    "text": "I found the mini to be : Exceptionally easy to set up",
     "labels": [
       "O",
       "O",
@@ -2580,25 +1444,7 @@
     ]
   },
   "77": {
-    "text": [
-      "The",
-      "sound",
-      "is",
-      "nice",
-      "and",
-      "loud",
-      ";",
-      "I",
-      "do",
-      "n't",
-      "have",
-      "any",
-      "problems",
-      "with",
-      "hearing",
-      "anything",
-      "."
-    ],
+    "text": "The sound is nice and loud ; I do n't have any problems with hearing anything .",
     "labels": [
       "O",
       "B",
@@ -2620,23 +1466,7 @@
     ]
   },
   "78": {
-    "text": [
-      "It",
-      "is",
-      "very",
-      "slim",
-      ",",
-      "the",
-      "track",
-      "pad",
-      "is",
-      "very",
-      "much",
-      "impressed",
-      "with",
-      "me",
-      "."
-    ],
+    "text": "It is very slim , the track pad is very much impressed with me .",
     "labels": [
       "O",
       "O",
@@ -2656,15 +1486,7 @@
     ]
   },
   "79": {
-    "text": [
-      "The",
-      "settings",
-      "are",
-      "not",
-      "user-friendly",
-      "either",
-      "."
-    ],
+    "text": "The settings are not user-friendly either .",
     "labels": [
       "O",
       "B",
@@ -2676,13 +1498,7 @@
     ]
   },
   "80": {
-    "text": [
-      "Thank",
-      "goodness",
-      "for",
-      "OpenOffice",
-      "!"
-    ],
+    "text": "Thank goodness for OpenOffice !",
     "labels": [
       "O",
       "O",
@@ -2692,19 +1508,7 @@
     ]
   },
   "81": {
-    "text": [
-      "Awesome",
-      "form",
-      "factor",
-      ",",
-      "great",
-      "battery",
-      "life",
-      ",",
-      "wonderful",
-      "UX",
-      "."
-    ],
+    "text": "Awesome form factor , great battery life , wonderful UX .",
     "labels": [
       "O",
       "B",
@@ -2720,16 +1524,7 @@
     ]
   },
   "82": {
-    "text": [
-      "i",
-      "love",
-      "the",
-      "keyboard",
-      "and",
-      "the",
-      "screen",
-      "."
-    ],
+    "text": "i love the keyboard and the screen .",
     "labels": [
       "O",
       "O",
@@ -2742,24 +1537,7 @@
     ]
   },
   "83": {
-    "text": [
-      "However",
-      ",",
-      "there",
-      "are",
-      "MAJOR",
-      "issues",
-      "with",
-      "the",
-      "touchpad",
-      "which",
-      "render",
-      "the",
-      "device",
-      "nearly",
-      "useless",
-      "."
-    ],
+    "text": "However , there are MAJOR issues with the touchpad which render the device nearly useless .",
     "labels": [
       "O",
       "O",
@@ -2780,24 +1558,7 @@
     ]
   },
   "84": {
-    "text": [
-      "I",
-      "'ve",
-      "already",
-      "upgraded",
-      "o",
-      "Mavericks",
-      "and",
-      "I",
-      "am",
-      "impressed",
-      "with",
-      "everything",
-      "about",
-      "this",
-      "computer",
-      "."
-    ],
+    "text": "I 've already upgraded o Mavericks and I am impressed with everything about this computer .",
     "labels": [
       "O",
       "O",
@@ -2818,20 +1579,7 @@
     ]
   },
   "85": {
-    "text": [
-      "Not",
-      "as",
-      "fast",
-      "as",
-      "I",
-      "would",
-      "have",
-      "expect",
-      "for",
-      "an",
-      "i5",
-      "."
-    ],
+    "text": "Not as fast as I would have expect for an i5 .",
     "labels": [
       "O",
       "O",
@@ -2848,15 +1596,7 @@
     ]
   },
   "86": {
-    "text": [
-      "thanks",
-      "for",
-      "great",
-      "service",
-      "and",
-      "shipping",
-      "!"
-    ],
+    "text": "thanks for great service and shipping !",
     "labels": [
       "O",
       "O",
@@ -2868,27 +1608,7 @@
     ]
   },
   "87": {
-    "text": [
-      "The",
-      "performance",
-      "seems",
-      "quite",
-      "good",
-      ",",
-      "and",
-      "built-in",
-      "applications",
-      "like",
-      "iPhoto",
-      "work",
-      "great",
-      "with",
-      "my",
-      "phone",
-      "and",
-      "camera",
-      "."
-    ],
+    "text": "The performance seems quite good , and built-in applications like iPhoto work great with my phone and camera .",
     "labels": [
       "O",
       "B",
@@ -2912,25 +1632,7 @@
     ]
   },
   "88": {
-    "text": [
-      "I",
-      "did",
-      "swap",
-      "out",
-      "the",
-      "hard",
-      "drive",
-      "for",
-      "a",
-      "Samsung",
-      "830",
-      "SSD",
-      "which",
-      "I",
-      "highly",
-      "recommend",
-      "."
-    ],
+    "text": "I did swap out the hard drive for a Samsung 830 SSD which I highly recommend .",
     "labels": [
       "O",
       "O",
@@ -2952,26 +1654,7 @@
     ]
   },
   "89": {
-    "text": [
-      "Yes",
-      ",",
-      "that",
-      "'s",
-      "a",
-      "good",
-      "thing",
-      ",",
-      "but",
-      "it",
-      "'s",
-      "made",
-      "from",
-      "aluminum",
-      "that",
-      "scratches",
-      "easily",
-      "."
-    ],
+    "text": "Yes , that 's a good thing , but it 's made from aluminum that scratches easily .",
     "labels": [
       "O",
       "O",
@@ -2994,22 +1677,7 @@
     ]
   },
   "90": {
-    "text": [
-      "I",
-      "was",
-      "also",
-      "informed",
-      "that",
-      "the",
-      "components",
-      "of",
-      "the",
-      "Mac",
-      "Book",
-      "were",
-      "dirty",
-      "."
-    ],
+    "text": "I was also informed that the components of the Mac Book were dirty .",
     "labels": [
       "O",
       "O",
@@ -3028,30 +1696,7 @@
     ]
   },
   "91": {
-    "text": [
-      "the",
-      "hardware",
-      "problems",
-      "have",
-      "been",
-      "so",
-      "bad",
-      ",",
-      "i",
-      "ca",
-      "n't",
-      "wait",
-      "till",
-      "it",
-      "completely",
-      "dies",
-      "in",
-      "3",
-      "years",
-      ",",
-      "TOPS",
-      "!"
-    ],
+    "text": "the hardware problems have been so bad , i ca n't wait till it completely dies in 3 years , TOPS !",
     "labels": [
       "O",
       "B",
@@ -3078,27 +1723,7 @@
     ]
   },
   "92": {
-    "text": [
-      "It",
-      "'s",
-      "so",
-      "nice",
-      "that",
-      "the",
-      "battery",
-      "last",
-      "so",
-      "long",
-      "and",
-      "that",
-      "this",
-      "machine",
-      "has",
-      "the",
-      "snow",
-      "lion",
-      "!"
-    ],
+    "text": "It 's so nice that the battery last so long and that this machine has the snow lion !",
     "labels": [
       "O",
       "O",
@@ -3122,25 +1747,7 @@
     ]
   },
   "93": {
-    "text": [
-      "it",
-      "'s",
-      "exactly",
-      "what",
-      "i",
-      "wanted",
-      ",",
-      "and",
-      "it",
-      "has",
-      "all",
-      "the",
-      "new",
-      "features",
-      "and",
-      "whatnot",
-      "."
-    ],
+    "text": "it 's exactly what i wanted , and it has all the new features and whatnot .",
     "labels": [
       "O",
       "O",
@@ -3162,19 +1769,7 @@
     ]
   },
   "94": {
-    "text": [
-      "It",
-      "feels",
-      "cheap",
-      ",",
-      "the",
-      "keyboard",
-      "is",
-      "not",
-      "very",
-      "sensitive",
-      "."
-    ],
+    "text": "It feels cheap , the keyboard is not very sensitive .",
     "labels": [
       "O",
       "O",
@@ -3190,23 +1785,7 @@
     ]
   },
   "95": {
-    "text": [
-      "Though",
-      "please",
-      "note",
-      "that",
-      "sometimes",
-      "it",
-      "crashes",
-      ",",
-      "and",
-      "the",
-      "sound",
-      "quality",
-      "isnt",
-      "superb",
-      "."
-    ],
+    "text": "Though please note that sometimes it crashes , and the sound quality isnt superb .",
     "labels": [
       "O",
       "O",
@@ -3226,19 +1805,7 @@
     ]
   },
   "96": {
-    "text": [
-      "It",
-      "is",
-      "very",
-      "easy",
-      "to",
-      "navigate",
-      "even",
-      "for",
-      "a",
-      "novice",
-      "."
-    ],
+    "text": "It is very easy to navigate even for a novice .",
     "labels": [
       "O",
       "O",
@@ -3254,27 +1821,7 @@
     ]
   },
   "97": {
-    "text": [
-      "Does",
-      "everything",
-      "I",
-      "need",
-      "it",
-      "to",
-      ",",
-      "has",
-      "a",
-      "wonderful",
-      "battery",
-      "life",
-      "and",
-      "I",
-      "could",
-      "n't",
-      "be",
-      "happier",
-      "."
-    ],
+    "text": "Does everything I need it to , has a wonderful battery life and I could n't be happier .",
     "labels": [
       "O",
       "O",
@@ -3298,13 +1845,7 @@
     ]
   },
   "98": {
-    "text": [
-      "Great",
-      "Performance",
-      "and",
-      "Quality",
-      "."
-    ],
+    "text": "Great Performance and Quality .",
     "labels": [
       "O",
       "B",
@@ -3314,59 +1855,7 @@
     ]
   },
   "99": {
-    "text": [
-      "One",
-      "more",
-      "thing",
-      ",",
-      "this",
-      "mac",
-      "does",
-      "NOT",
-      "come",
-      "with",
-      "restore",
-      "disks",
-      "and",
-      "I",
-      "am",
-      "not",
-      "sure",
-      "if",
-      "you",
-      "can",
-      "make",
-      "them",
-      "direct",
-      "from",
-      "the",
-      "mac",
-      "like",
-      "you",
-      "can",
-      "with",
-      "newer",
-      "PC",
-      "'s",
-      ",",
-      "also",
-      "the",
-      "charging",
-      "cables",
-      "are",
-      "made",
-      "of",
-      "the",
-      "same",
-      "cheap",
-      "material",
-      "as",
-      "the",
-      "iPhone/iPod",
-      "touch",
-      "cables",
-      "."
-    ],
+    "text": "One more thing , this mac does NOT come with restore disks and I am not sure if you can make them direct from the mac like you can with newer PC 's , also the charging cables are made of the same cheap material as the iPhone/iPod touch cables .",
     "labels": [
       "O",
       "O",
@@ -3422,18 +1911,7 @@
     ]
   },
   "100": {
-    "text": [
-      "The",
-      "new",
-      "os",
-      "is",
-      "great",
-      "on",
-      "my",
-      "macbook",
-      "pro",
-      "!"
-    ],
+    "text": "The new os is great on my macbook pro !",
     "labels": [
       "O",
       "O",
@@ -3448,18 +1926,7 @@
     ]
   },
   "101": {
-    "text": [
-      "I",
-      "have",
-      "experienced",
-      "no",
-      "problems",
-      ",",
-      "works",
-      "as",
-      "anticipated",
-      "."
-    ],
+    "text": "I have experienced no problems , works as anticipated .",
     "labels": [
       "O",
       "O",
@@ -3474,13 +1941,7 @@
     ]
   },
   "102": {
-    "text": [
-      "System",
-      "is",
-      "running",
-      "great",
-      "."
-    ],
+    "text": "System is running great .",
     "labels": [
       "B",
       "O",
@@ -3490,19 +1951,7 @@
     ]
   },
   "103": {
-    "text": [
-      "Easy",
-      "to",
-      "customize",
-      "setting",
-      "and",
-      "even",
-      "create",
-      "your",
-      "own",
-      "bookmarks",
-      "."
-    ],
+    "text": "Easy to customize setting and even create your own bookmarks .",
     "labels": [
       "O",
       "O",
@@ -3518,27 +1967,7 @@
     ]
   },
   "104": {
-    "text": [
-      "it",
-      "has",
-      "all",
-      "the",
-      "features",
-      "that",
-      "we",
-      "expected",
-      "and",
-      "the",
-      "price",
-      "was",
-      "good",
-      ",",
-      "working",
-      "well",
-      "so",
-      "far",
-      "."
-    ],
+    "text": "it has all the features that we expected and the price was good , working well so far .",
     "labels": [
       "O",
       "O",
@@ -3562,20 +1991,7 @@
     ]
   },
   "105": {
-    "text": [
-      "The",
-      "new",
-      "operating",
-      "system",
-      "makes",
-      "this",
-      "computer",
-      "into",
-      "a",
-      "super",
-      "iPad",
-      "."
-    ],
+    "text": "The new operating system makes this computer into a super iPad .",
     "labels": [
       "O",
       "O",
@@ -3592,15 +2008,7 @@
     ]
   },
   "106": {
-    "text": [
-      "Easy",
-      "to",
-      "set",
-      "up",
-      "and",
-      "go",
-      "!"
-    ],
+    "text": "Easy to set up and go !",
     "labels": [
       "O",
       "O",
@@ -3612,26 +2020,7 @@
     ]
   },
   "107": {
-    "text": [
-      "I",
-      "ca",
-      "n't",
-      "believe",
-      "how",
-      "quiet",
-      "the",
-      "hard",
-      "drive",
-      "is",
-      "and",
-      "how",
-      "quick",
-      "this",
-      "thing",
-      "boots",
-      "up",
-      "."
-    ],
+    "text": "I ca n't believe how quiet the hard drive is and how quick this thing boots up .",
     "labels": [
       "O",
       "O",
@@ -3654,21 +2043,7 @@
     ]
   },
   "108": {
-    "text": [
-      "It",
-      "'s",
-      "just",
-      "what",
-      "we",
-      "were",
-      "looking",
-      "for",
-      "and",
-      "it",
-      "works",
-      "great",
-      "."
-    ],
+    "text": "It 's just what we were looking for and it works great .",
     "labels": [
       "O",
       "O",
@@ -3686,28 +2061,7 @@
     ]
   },
   "109": {
-    "text": [
-      "It",
-      "'s",
-      "so",
-      "quick",
-      "and",
-      "responsive",
-      "that",
-      "it",
-      "makes",
-      "working",
-      "/",
-      "surfing",
-      "on",
-      "a",
-      "computer",
-      "so",
-      "much",
-      "more",
-      "pleasurable",
-      "!"
-    ],
+    "text": "It 's so quick and responsive that it makes working / surfing on a computer so much more pleasurable !",
     "labels": [
       "O",
       "O",
@@ -3732,22 +2086,7 @@
     ]
   },
   "110": {
-    "text": [
-      "It",
-      "works",
-      "fine",
-      ",",
-      "and",
-      "all",
-      "the",
-      "software",
-      "seems",
-      "to",
-      "run",
-      "pretty",
-      "well",
-      "."
-    ],
+    "text": "It works fine , and all the software seems to run pretty well .",
     "labels": [
       "O",
       "B",
@@ -3766,25 +2105,7 @@
     ]
   },
   "111": {
-    "text": [
-      "I",
-      "wanted",
-      "a",
-      "computer",
-      "that",
-      "was",
-      "quite",
-      ",",
-      "fast",
-      ",",
-      "and",
-      "that",
-      "had",
-      "overall",
-      "great",
-      "performance",
-      "."
-    ],
+    "text": "I wanted a computer that was quite , fast , and that had overall great performance .",
     "labels": [
       "O",
       "O",
@@ -3806,19 +2127,7 @@
     ]
   },
   "112": {
-    "text": [
-      "Harddrive",
-      "was",
-      "in",
-      "poor",
-      "condition",
-      ",",
-      "had",
-      "to",
-      "replace",
-      "it",
-      "."
-    ],
+    "text": "Harddrive was in poor condition , had to replace it .",
     "labels": [
       "B",
       "O",
@@ -3834,20 +2143,7 @@
     ]
   },
   "113": {
-    "text": [
-      "The",
-      "on/off",
-      "switch",
-      "is",
-      "a",
-      "bit",
-      "obscure",
-      "in",
-      "the",
-      "rear",
-      "corner",
-      "."
-    ],
+    "text": "The on/off switch is a bit obscure in the rear corner .",
     "labels": [
       "O",
       "B",
@@ -3864,24 +2160,7 @@
     ]
   },
   "114": {
-    "text": [
-      "My",
-      "only",
-      "complaint",
-      "is",
-      "the",
-      "total",
-      "lack",
-      "of",
-      "instructions",
-      "that",
-      "come",
-      "with",
-      "the",
-      "mac",
-      "mini",
-      "."
-    ],
+    "text": "My only complaint is the total lack of instructions that come with the mac mini .",
     "labels": [
       "O",
       "O",
@@ -3902,36 +2181,7 @@
     ]
   },
   "115": {
-    "text": [
-      "The",
-      "only",
-      "task",
-      "that",
-      "this",
-      "computer",
-      "would",
-      "not",
-      "be",
-      "good",
-      "enough",
-      "for",
-      "would",
-      "be",
-      "gaming",
-      ",",
-      "otherwise",
-      "the",
-      "integrated",
-      "Intel",
-      "4000",
-      "graphics",
-      "work",
-      "well",
-      "for",
-      "other",
-      "tasks",
-      "."
-    ],
+    "text": "The only task that this computer would not be good enough for would be gaming , otherwise the integrated Intel 4000 graphics work well for other tasks .",
     "labels": [
       "O",
       "O",
@@ -3964,27 +2214,7 @@
     ]
   },
   "116": {
-    "text": [
-      "I",
-      "use",
-      "it",
-      "mostly",
-      "for",
-      "content",
-      "creation",
-      "(",
-      "Audio",
-      ",",
-      "video",
-      ",",
-      "photo",
-      "editing",
-      ")",
-      "and",
-      "its",
-      "reliable",
-      "."
-    ],
+    "text": "I use it mostly for content creation ( Audio , video , photo editing ) and its reliable .",
     "labels": [
       "O",
       "O",
@@ -4008,14 +2238,7 @@
     ]
   },
   "117": {
-    "text": [
-      "Screen",
-      "is",
-      "bright",
-      "and",
-      "gorgeous",
-      "."
-    ],
+    "text": "Screen is bright and gorgeous .",
     "labels": [
       "B",
       "O",
@@ -4026,21 +2249,7 @@
     ]
   },
   "118": {
-    "text": [
-      "It",
-      "is",
-      "robust",
-      ",",
-      "with",
-      "a",
-      "friendly",
-      "use",
-      "as",
-      "all",
-      "Apple",
-      "products",
-      "."
-    ],
+    "text": "It is robust , with a friendly use as all Apple products .",
     "labels": [
       "O",
       "O",
@@ -4058,16 +2267,7 @@
     ]
   },
   "119": {
-    "text": [
-      "It",
-      "is",
-      "fast",
-      "and",
-      "easy",
-      "to",
-      "use",
-      "."
-    ],
+    "text": "It is fast and easy to use .",
     "labels": [
       "O",
       "O",
@@ -4080,22 +2280,7 @@
     ]
   },
   "120": {
-    "text": [
-      "And",
-      "the",
-      "fact",
-      "that",
-      "it",
-      "comes",
-      "with",
-      "an",
-      "i5",
-      "processor",
-      "definitely",
-      "speeds",
-      "things",
-      "up"
-    ],
+    "text": "And the fact that it comes with an i5 processor definitely speeds things up",
     "labels": [
       "O",
       "O",
@@ -4114,28 +2299,7 @@
     ]
   },
   "121": {
-    "text": [
-      "I",
-      "have",
-      "been",
-      "PC",
-      "for",
-      "years",
-      "but",
-      "this",
-      "computer",
-      "is",
-      "intuitive",
-      "and",
-      "its",
-      "built",
-      "in",
-      "features",
-      "are",
-      "a",
-      "great",
-      "help"
-    ],
+    "text": "I have been PC for years but this computer is intuitive and its built in features are a great help",
     "labels": [
       "O",
       "O",
@@ -4160,15 +2324,7 @@
     ]
   },
   "122": {
-    "text": [
-      "Nice",
-      "screen",
-      ",",
-      "keyboard",
-      "works",
-      "great",
-      "!"
-    ],
+    "text": "Nice screen , keyboard works great !",
     "labels": [
       "O",
       "B",
@@ -4180,18 +2336,7 @@
     ]
   },
   "123": {
-    "text": [
-      "I",
-      "was",
-      "amazed",
-      "at",
-      "how",
-      "fast",
-      "the",
-      "delivery",
-      "was",
-      "."
-    ],
+    "text": "I was amazed at how fast the delivery was .",
     "labels": [
       "O",
       "O",
@@ -4206,21 +2351,7 @@
     ]
   },
   "124": {
-    "text": [
-      "The",
-      "memory",
-      "was",
-      "gone",
-      "and",
-      "it",
-      "was",
-      "not",
-      "able",
-      "to",
-      "be",
-      "used",
-      "."
-    ],
+    "text": "The memory was gone and it was not able to be used .",
     "labels": [
       "O",
       "B",
@@ -4238,20 +2369,7 @@
     ]
   },
   "125": {
-    "text": [
-      "It",
-      "works",
-      "great",
-      "and",
-      "I",
-      "am",
-      "so",
-      "happy",
-      "I",
-      "bought",
-      "it",
-      "."
-    ],
+    "text": "It works great and I am so happy I bought it .",
     "labels": [
       "O",
       "B",
@@ -4268,24 +2386,7 @@
     ]
   },
   "126": {
-    "text": [
-      "I",
-      "like",
-      "the",
-      "design",
-      "and",
-      "ease",
-      "of",
-      "use",
-      "with",
-      "the",
-      "keyboard",
-      ",",
-      "plenty",
-      "of",
-      "ports",
-      "."
-    ],
+    "text": "I like the design and ease of use with the keyboard , plenty of ports .",
     "labels": [
       "O",
       "O",
@@ -4306,20 +2407,7 @@
     ]
   },
   "127": {
-    "text": [
-      "it",
-      "definitely",
-      "beats",
-      "my",
-      "old",
-      "mac",
-      "and",
-      "the",
-      "service",
-      "was",
-      "great",
-      "."
-    ],
+    "text": "it definitely beats my old mac and the service was great .",
     "labels": [
       "O",
       "O",
@@ -4336,17 +2424,7 @@
     ]
   },
   "128": {
-    "text": [
-      "Web",
-      "browsing",
-      "is",
-      "very",
-      "quick",
-      "with",
-      "Safari",
-      "browser",
-      "."
-    ],
+    "text": "Web browsing is very quick with Safari browser .",
     "labels": [
       "B",
       "I",
@@ -4360,16 +2438,7 @@
     ]
   },
   "129": {
-    "text": [
-      "I",
-      "like",
-      "the",
-      "lighted",
-      "screen",
-      "at",
-      "night",
-      "."
-    ],
+    "text": "I like the lighted screen at night .",
     "labels": [
       "O",
       "O",
@@ -4382,22 +2451,7 @@
     ]
   },
   "130": {
-    "text": [
-      "It",
-      "is",
-      "really",
-      "easy",
-      "to",
-      "use",
-      "and",
-      "it",
-      "is",
-      "quick",
-      "to",
-      "start",
-      "up",
-      "."
-    ],
+    "text": "It is really easy to use and it is quick to start up .",
     "labels": [
       "O",
       "O",
@@ -4416,20 +2470,7 @@
     ]
   },
   "131": {
-    "text": [
-      "I",
-      "'ve",
-      "lived",
-      "with",
-      "the",
-      "crashes",
-      "and",
-      "slow",
-      "operation",
-      "and",
-      "restarts",
-      "."
-    ],
+    "text": "I 've lived with the crashes and slow operation and restarts .",
     "labels": [
       "O",
       "O",
@@ -4446,19 +2487,7 @@
     ]
   },
   "132": {
-    "text": [
-      "USB3",
-      "Peripherals",
-      "are",
-      "noticably",
-      "less",
-      "expensive",
-      "than",
-      "the",
-      "ThunderBolt",
-      "ones",
-      "."
-    ],
+    "text": "USB3 Peripherals are noticably less expensive than the ThunderBolt ones .",
     "labels": [
       "B",
       "I",
@@ -4474,33 +2503,7 @@
     ]
   },
   "133": {
-    "text": [
-      "It",
-      "'s",
-      "fast",
-      ",",
-      "light",
-      ",",
-      "and",
-      "is",
-      "perfect",
-      "for",
-      "media",
-      "editing",
-      ",",
-      "which",
-      "is",
-      "mostly",
-      "why",
-      "I",
-      "bought",
-      "it",
-      "in",
-      "the",
-      "first",
-      "place",
-      "."
-    ],
+    "text": "It 's fast , light , and is perfect for media editing , which is mostly why I bought it in the first place .",
     "labels": [
       "O",
       "O",
@@ -4530,30 +2533,7 @@
     ]
   },
   "134": {
-    "text": [
-      "The",
-      "battery",
-      "lasts",
-      "as",
-      "advertised",
-      "(",
-      "give",
-      "or",
-      "take",
-      "15-20",
-      "minutes",
-      ")",
-      ",",
-      "and",
-      "the",
-      "entire",
-      "user",
-      "experience",
-      "is",
-      "very",
-      "elegant",
-      "."
-    ],
+    "text": "The battery lasts as advertised ( give or take 15-20 minutes ) , and the entire user experience is very elegant .",
     "labels": [
       "O",
       "O",
@@ -4580,17 +2560,7 @@
     ]
   },
   "135": {
-    "text": [
-      "Thanks",
-      "for",
-      "the",
-      "fast",
-      "shipment",
-      "and",
-      "great",
-      "price",
-      "."
-    ],
+    "text": "Thanks for the fast shipment and great price .",
     "labels": [
       "O",
       "O",
@@ -4604,19 +2574,7 @@
     ]
   },
   "136": {
-    "text": [
-      "!",
-      "Excellent",
-      "performance",
-      ",",
-      "usability",
-      ",",
-      "presentation",
-      "and",
-      "time",
-      "response",
-      "."
-    ],
+    "text": "! Excellent performance , usability , presentation and time response .",
     "labels": [
       "O",
       "O",
@@ -4632,19 +2590,7 @@
     ]
   },
   "137": {
-    "text": [
-      "The",
-      "smaller",
-      "size",
-      "was",
-      "a",
-      "bonus",
-      "because",
-      "of",
-      "space",
-      "restrictions",
-      "."
-    ],
+    "text": "The smaller size was a bonus because of space restrictions .",
     "labels": [
       "O",
       "O",
@@ -4660,14 +2606,7 @@
     ]
   },
   "138": {
-    "text": [
-      "I",
-      "blame",
-      "the",
-      "Mac",
-      "OS",
-      "."
-    ],
+    "text": "I blame the Mac OS .",
     "labels": [
       "O",
       "O",
@@ -4678,14 +2617,7 @@
     ]
   },
   "139": {
-    "text": [
-      "I",
-      "like",
-      "the",
-      "operating",
-      "system",
-      "."
-    ],
+    "text": "I like the operating system .",
     "labels": [
       "O",
       "O",
@@ -4696,14 +2628,7 @@
     ]
   },
   "140": {
-    "text": [
-      "I",
-      "love",
-      "the",
-      "form",
-      "factor",
-      "."
-    ],
+    "text": "I love the form factor .",
     "labels": [
       "O",
       "O",
@@ -4714,16 +2639,7 @@
     ]
   },
   "141": {
-    "text": [
-      "It",
-      "'s",
-      "fast",
-      "at",
-      "loading",
-      "the",
-      "internet",
-      "."
-    ],
+    "text": "It 's fast at loading the internet .",
     "labels": [
       "O",
       "O",
@@ -4736,15 +2652,7 @@
     ]
   },
   "142": {
-    "text": [
-      "So",
-      "much",
-      "faster",
-      "and",
-      "sleeker",
-      "looking",
-      "."
-    ],
+    "text": "So much faster and sleeker looking .",
     "labels": [
       "O",
       "O",
@@ -4756,21 +2664,7 @@
     ]
   },
   "143": {
-    "text": [
-      "Unfortunately",
-      ",",
-      "it",
-      "runs",
-      "XP",
-      "and",
-      "Microsoft",
-      "is",
-      "dropping",
-      "support",
-      "next",
-      "April",
-      "."
-    ],
+    "text": "Unfortunately , it runs XP and Microsoft is dropping support next April .",
     "labels": [
       "O",
       "O",
@@ -4788,50 +2682,7 @@
     ]
   },
   "144": {
-    "text": [
-      "First",
-      "off",
-      ",",
-      "I",
-      "really",
-      "do",
-      "like",
-      "my",
-      "MBP",
-      "...",
-      "once",
-      "used",
-      "to",
-      "the",
-      "OS",
-      "it",
-      "is",
-      "pretty",
-      "easy",
-      "to",
-      "get",
-      "around",
-      ",",
-      "and",
-      "the",
-      "overall",
-      "build",
-      "is",
-      "great",
-      "...",
-      "eg",
-      "the",
-      "keyboard",
-      "is",
-      "one",
-      "of",
-      "the",
-      "best",
-      "to",
-      "type",
-      "on",
-      "."
-    ],
+    "text": "First off , I really do like my MBP ... once used to the OS it is pretty easy to get around , and the overall build is great ... eg the keyboard is one of the best to type on .",
     "labels": [
       "O",
       "O",
@@ -4878,36 +2729,7 @@
     ]
   },
   "145": {
-    "text": [
-      "It",
-      "is",
-      "made",
-      "of",
-      "such",
-      "solid",
-      "construction",
-      "and",
-      "since",
-      "I",
-      "have",
-      "never",
-      "had",
-      "a",
-      "Mac",
-      "using",
-      "my",
-      "iPhone",
-      "helped",
-      "me",
-      "get",
-      "used",
-      "to",
-      "the",
-      "system",
-      "a",
-      "bit",
-      "."
-    ],
+    "text": "It is made of such solid construction and since I have never had a Mac using my iPhone helped me get used to the system a bit .",
     "labels": [
       "O",
       "O",
@@ -4940,13 +2762,7 @@
     ]
   },
   "146": {
-    "text": [
-      "Very",
-      "nice",
-      "unibody",
-      "construction",
-      "."
-    ],
+    "text": "Very nice unibody construction .",
     "labels": [
       "O",
       "O",
@@ -4956,23 +2772,7 @@
     ]
   },
   "147": {
-    "text": [
-      "This",
-      "Macbook",
-      "Pro",
-      "is",
-      "fast",
-      ",",
-      "powerful",
-      ",",
-      "and",
-      "runs",
-      "super",
-      "quiet",
-      "and",
-      "cool",
-      "."
-    ],
+    "text": "This Macbook Pro is fast , powerful , and runs super quiet and cool .",
     "labels": [
       "O",
       "O",
@@ -4992,29 +2792,7 @@
     ]
   },
   "148": {
-    "text": [
-      "It",
-      "'s",
-      "ok",
-      "but",
-      "does",
-      "n't",
-      "have",
-      "a",
-      "disk",
-      "drive",
-      "which",
-      "I",
-      "did",
-      "n't",
-      "know",
-      "until",
-      "after",
-      "I",
-      "bought",
-      "it",
-      "."
-    ],
+    "text": "It 's ok but does n't have a disk drive which I did n't know until after I bought it .",
     "labels": [
       "O",
       "O",
@@ -5040,27 +2818,7 @@
     ]
   },
   "149": {
-    "text": [
-      "There",
-      "is",
-      "no",
-      "HDMI",
-      "receptacle",
-      ",",
-      "nor",
-      "is",
-      "there",
-      "an",
-      "SD",
-      "card",
-      "slot",
-      "located",
-      "anywhere",
-      "on",
-      "the",
-      "device",
-      "."
-    ],
+    "text": "There is no HDMI receptacle , nor is there an SD card slot located anywhere on the device .",
     "labels": [
       "O",
       "O",
@@ -5084,17 +2842,7 @@
     ]
   },
   "150": {
-    "text": [
-      "It",
-      "came",
-      "in",
-      "brand",
-      "new",
-      "and",
-      "works",
-      "perfectly",
-      "."
-    ],
+    "text": "It came in brand new and works perfectly .",
     "labels": [
       "O",
       "O",
@@ -5108,26 +2856,7 @@
     ]
   },
   "151": {
-    "text": [
-      "It",
-      "should",
-      "n't",
-      "happen",
-      "like",
-      "that",
-      ",",
-      "I",
-      "do",
-      "n't",
-      "have",
-      "any",
-      "design",
-      "app",
-      "open",
-      "or",
-      "anything",
-      "."
-    ],
+    "text": "It should n't happen like that , I do n't have any design app open or anything .",
     "labels": [
       "O",
       "O",
@@ -5150,14 +2879,7 @@
     ]
   },
   "152": {
-    "text": [
-      "MY",
-      "TRACKPAD",
-      "IS",
-      "NOT",
-      "WORKING",
-      "."
-    ],
+    "text": "MY TRACKPAD IS NOT WORKING .",
     "labels": [
       "O",
       "B",
@@ -5168,19 +2890,7 @@
     ]
   },
   "153": {
-    "text": [
-      "It",
-      "looks",
-      "and",
-      "feels",
-      "solid",
-      ",",
-      "with",
-      "a",
-      "flawless",
-      "finish",
-      "."
-    ],
+    "text": "It looks and feels solid , with a flawless finish .",
     "labels": [
       "O",
       "B",
@@ -5196,28 +2906,7 @@
     ]
   },
   "154": {
-    "text": [
-      "Price",
-      "was",
-      "higher",
-      "when",
-      "purchased",
-      "on",
-      "MAC",
-      "when",
-      "compared",
-      "to",
-      "price",
-      "showing",
-      "on",
-      "PC",
-      "when",
-      "I",
-      "bought",
-      "this",
-      "product",
-      "."
-    ],
+    "text": "Price was higher when purchased on MAC when compared to price showing on PC when I bought this product .",
     "labels": [
       "B",
       "O",
@@ -5242,22 +2931,7 @@
     ]
   },
   "155": {
-    "text": [
-      "Then",
-      "the",
-      "system",
-      "would",
-      "many",
-      "times",
-      "not",
-      "power",
-      "down",
-      "without",
-      "a",
-      "forced",
-      "power-off",
-      "."
-    ],
+    "text": "Then the system would many times not power down without a forced power-off .",
     "labels": [
       "O",
       "O",
@@ -5276,16 +2950,7 @@
     ]
   },
   "156": {
-    "text": [
-      "The",
-      "configuration",
-      "is",
-      "perfect",
-      "for",
-      "my",
-      "needs",
-      "."
-    ],
+    "text": "The configuration is perfect for my needs .",
     "labels": [
       "O",
       "B",
@@ -5298,16 +2963,7 @@
     ]
   },
   "157": {
-    "text": [
-      "and",
-      "the",
-      "speakers",
-      "is",
-      "the",
-      "worst",
-      "ever",
-      "."
-    ],
+    "text": "and the speakers is the worst ever .",
     "labels": [
       "O",
       "O",
@@ -5320,32 +2976,7 @@
     ]
   },
   "158": {
-    "text": [
-      "Its",
-      "the",
-      "best",
-      ",",
-      "its",
-      "got",
-      "the",
-      "looks",
-      ",",
-      "super",
-      "easy",
-      "to",
-      "use",
-      "and",
-      "love",
-      "all",
-      "you",
-      "can",
-      "do",
-      "with",
-      "the",
-      "trackpad",
-      "!",
-      ".."
-    ],
+    "text": "Its the best , its got the looks , super easy to use and love all you can do with the trackpad ! ..",
     "labels": [
       "O",
       "O",
@@ -5374,15 +3005,7 @@
     ]
   },
   "159": {
-    "text": [
-      "Web",
-      "surfuring",
-      "is",
-      "smooth",
-      "and",
-      "seamless",
-      "."
-    ],
+    "text": "Web surfuring is smooth and seamless .",
     "labels": [
       "B",
       "I",
@@ -5394,22 +3017,7 @@
     ]
   },
   "160": {
-    "text": [
-      "I",
-      "'m",
-      "overall",
-      "pleased",
-      "with",
-      "the",
-      "interface",
-      "and",
-      "the",
-      "portability",
-      "of",
-      "this",
-      "product",
-      "."
-    ],
+    "text": "I 'm overall pleased with the interface and the portability of this product .",
     "labels": [
       "O",
       "O",
@@ -5428,27 +3036,7 @@
     ]
   },
   "161": {
-    "text": [
-      "This",
-      "item",
-      "is",
-      "a",
-      "beautiful",
-      "piece",
-      ",",
-      "it",
-      "works",
-      "well",
-      ",",
-      "it",
-      "is",
-      "easy",
-      "to",
-      "carry",
-      "and",
-      "handle",
-      "."
-    ],
+    "text": "This item is a beautiful piece , it works well , it is easy to carry and handle .",
     "labels": [
       "O",
       "O",
@@ -5472,27 +3060,7 @@
     ]
   },
   "162": {
-    "text": [
-      "It",
-      "was",
-      "also",
-      "suffering",
-      "from",
-      "hardware",
-      "(",
-      "keyboard",
-      ")",
-      "issues",
-      ",",
-      "relatively",
-      "slow",
-      "performance",
-      "and",
-      "shortening",
-      "battery",
-      "lifetime",
-      "."
-    ],
+    "text": "It was also suffering from hardware ( keyboard ) issues , relatively slow performance and shortening battery lifetime .",
     "labels": [
       "O",
       "O",
@@ -5516,21 +3084,7 @@
     ]
   },
   "163": {
-    "text": [
-      "Runs",
-      "good",
-      "and",
-      "does",
-      "the",
-      "job",
-      ",",
-      "ca",
-      "n't",
-      "complain",
-      "about",
-      "that",
-      "!"
-    ],
+    "text": "Runs good and does the job , ca n't complain about that !",
     "labels": [
       "B",
       "O",
@@ -5548,21 +3102,7 @@
     ]
   },
   "164": {
-    "text": [
-      "It",
-      "'s",
-      "silent",
-      "and",
-      "has",
-      "a",
-      "very",
-      "small",
-      "footprint",
-      "on",
-      "my",
-      "desk",
-      "."
-    ],
+    "text": "It 's silent and has a very small footprint on my desk .",
     "labels": [
       "O",
       "O",
@@ -5580,14 +3120,7 @@
     ]
   },
   "165": {
-    "text": [
-      "The",
-      "exterior",
-      "is",
-      "absolutely",
-      "gorgeous",
-      "."
-    ],
+    "text": "The exterior is absolutely gorgeous .",
     "labels": [
       "O",
       "B",
@@ -5598,22 +3131,7 @@
     ]
   },
   "166": {
-    "text": [
-      "It",
-      "has",
-      "a",
-      "very",
-      "high",
-      "performance",
-      ",",
-      "just",
-      "for",
-      "what",
-      "I",
-      "needed",
-      "for",
-      "."
-    ],
+    "text": "It has a very high performance , just for what I needed for .",
     "labels": [
       "O",
       "O",
@@ -5632,31 +3150,7 @@
     ]
   },
   "167": {
-    "text": [
-      "Apple",
-      "is",
-      "aware",
-      "of",
-      "this",
-      "issue",
-      "and",
-      "this",
-      "is",
-      "either",
-      "old",
-      "stock",
-      "or",
-      "a",
-      "defective",
-      "design",
-      "involving",
-      "the",
-      "intel",
-      "4000",
-      "graphics",
-      "chipset",
-      "."
-    ],
+    "text": "Apple is aware of this issue and this is either old stock or a defective design involving the intel 4000 graphics chipset .",
     "labels": [
       "O",
       "O",
@@ -5684,38 +3178,7 @@
     ]
   },
   "168": {
-    "text": [
-      "I",
-      "just",
-      "bought",
-      "the",
-      "new",
-      "MacBook",
-      "Pro",
-      ",",
-      "the",
-      "13",
-      "''",
-      "model",
-      ",",
-      "and",
-      "I",
-      "ca",
-      "n't",
-      "believe",
-      "Apple",
-      "keeps",
-      "making",
-      "the",
-      "same",
-      "mistake",
-      "with",
-      "regard",
-      "to",
-      "USB",
-      "ports",
-      "."
-    ],
+    "text": "I just bought the new MacBook Pro , the 13 '' model , and I ca n't believe Apple keeps making the same mistake with regard to USB ports .",
     "labels": [
       "O",
       "O",
@@ -5750,18 +3213,7 @@
     ]
   },
   "169": {
-    "text": [
-      "It",
-      "is",
-      "the",
-      "perfect",
-      "size",
-      "and",
-      "speed",
-      "for",
-      "me",
-      "."
-    ],
+    "text": "It is the perfect size and speed for me .",
     "labels": [
       "O",
       "O",
@@ -5776,15 +3228,7 @@
     ]
   },
   "170": {
-    "text": [
-      "THE",
-      "CUSTOMER",
-      "SERVICE",
-      "IS",
-      "TERRIFIC",
-      "!",
-      "!"
-    ],
+    "text": "THE CUSTOMER SERVICE IS TERRIFIC ! !",
     "labels": [
       "O",
       "B",
@@ -5796,69 +3240,7 @@
     ]
   },
   "171": {
-    "text": [
-      "My",
-      "last",
-      "laptop",
-      "was",
-      "a",
-      "17",
-      "''",
-      "ASUS",
-      "gaming",
-      "machine",
-      ",",
-      "which",
-      "performed",
-      "admirably",
-      ",",
-      "but",
-      "having",
-      "since",
-      "built",
-      "my",
-      "own",
-      "desktop",
-      "and",
-      "really",
-      "settling",
-      "into",
-      "the",
-      "college",
-      "life",
-      ",",
-      "I",
-      "found",
-      "myself",
-      "wanting",
-      "something",
-      "smaller",
-      "and",
-      "less",
-      "cumbersome",
-      ",",
-      "not",
-      "to",
-      "mention",
-      "that",
-      "the",
-      "ASUS",
-      "had",
-      "been",
-      "slowly",
-      "developing",
-      "problems",
-      "ever",
-      "since",
-      "I",
-      "bought",
-      "it",
-      "about",
-      "4",
-      "years",
-      "ago",
-      "."
-    ],
+    "text": "My last laptop was a 17 '' ASUS gaming machine , which performed admirably , but having since built my own desktop and really settling into the college life , I found myself wanting something smaller and less cumbersome , not to mention that the ASUS had been slowly developing problems ever since I bought it about 4 years ago .",
     "labels": [
       "O",
       "O",
@@ -5924,36 +3306,7 @@
     ]
   },
   "172": {
-    "text": [
-      "However",
-      ",",
-      "it",
-      "did",
-      "not",
-      "have",
-      "any",
-      "scratches",
-      ",",
-      "ZERO",
-      "battery",
-      "cycle",
-      "count",
-      "(",
-      "pretty",
-      "surprised",
-      ")",
-      ",",
-      "and",
-      "all",
-      "the",
-      "hardware",
-      "seemed",
-      "to",
-      "be",
-      "working",
-      "perfectly",
-      "."
-    ],
+    "text": "However , it did not have any scratches , ZERO battery cycle count ( pretty surprised ) , and all the hardware seemed to be working perfectly .",
     "labels": [
       "O",
       "O",
@@ -5986,26 +3339,7 @@
     ]
   },
   "173": {
-    "text": [
-      "And",
-      "as",
-      "for",
-      "all",
-      "the",
-      "fancy",
-      "finger",
-      "swipes",
-      "--",
-      "I",
-      "just",
-      "gave",
-      "up",
-      "and",
-      "attached",
-      "a",
-      "mouse",
-      "."
-    ],
+    "text": "And as for all the fancy finger swipes -- I just gave up and attached a mouse .",
     "labels": [
       "O",
       "O",
@@ -6028,29 +3362,7 @@
     ]
   },
   "174": {
-    "text": [
-      "I",
-      "needed",
-      "a",
-      "laptop",
-      "with",
-      "big",
-      "storage",
-      ",",
-      "a",
-      "nice",
-      "screen",
-      "and",
-      "fast",
-      "so",
-      "I",
-      "can",
-      "photoshop",
-      "without",
-      "any",
-      "problem",
-      "."
-    ],
+    "text": "I needed a laptop with big storage , a nice screen and fast so I can photoshop without any problem .",
     "labels": [
       "O",
       "O",
@@ -6076,32 +3388,7 @@
     ]
   },
   "175": {
-    "text": [
-      "I",
-      "like",
-      "coming",
-      "back",
-      "to",
-      "Mac",
-      "OS",
-      "but",
-      "this",
-      "laptop",
-      "is",
-      "lacking",
-      "in",
-      "speaker",
-      "quality",
-      "compared",
-      "to",
-      "my",
-      "$",
-      "400",
-      "old",
-      "HP",
-      "laptop",
-      "."
-    ],
+    "text": "I like coming back to Mac OS but this laptop is lacking in speaker quality compared to my $ 400 old HP laptop .",
     "labels": [
       "O",
       "O",
@@ -6130,14 +3417,7 @@
     ]
   },
   "176": {
-    "text": [
-      "Shipped",
-      "very",
-      "quickly",
-      "and",
-      "safely",
-      "."
-    ],
+    "text": "Shipped very quickly and safely .",
     "labels": [
       "B",
       "O",
@@ -6148,14 +3428,7 @@
     ]
   },
   "177": {
-    "text": [
-      "The",
-      "thunderbolt",
-      "port",
-      "is",
-      "awesome",
-      "!"
-    ],
+    "text": "The thunderbolt port is awesome !",
     "labels": [
       "O",
       "B",
@@ -6166,24 +3439,7 @@
     ]
   },
   "178": {
-    "text": [
-      "The",
-      "performance",
-      "is",
-      "definitely",
-      "superior",
-      "to",
-      "any",
-      "computer",
-      "I",
-      "'ve",
-      "ever",
-      "put",
-      "my",
-      "hands",
-      "on",
-      "."
-    ],
+    "text": "The performance is definitely superior to any computer I 've ever put my hands on .",
     "labels": [
       "O",
       "B",
@@ -6204,19 +3460,7 @@
     ]
   },
   "179": {
-    "text": [
-      "It",
-      "'s",
-      "great",
-      "for",
-      "streaming",
-      "video",
-      "and",
-      "other",
-      "entertainment",
-      "uses",
-      "."
-    ],
+    "text": "It 's great for streaming video and other entertainment uses .",
     "labels": [
       "O",
       "O",
@@ -6232,26 +3476,7 @@
     ]
   },
   "180": {
-    "text": [
-      "I",
-      "like",
-      "the",
-      "design",
-      "and",
-      "its",
-      "features",
-      "but",
-      "there",
-      "are",
-      "somethings",
-      "I",
-      "think",
-      "needs",
-      "to",
-      "be",
-      "improved",
-      "."
-    ],
+    "text": "I like the design and its features but there are somethings I think needs to be improved .",
     "labels": [
       "O",
       "O",
@@ -6274,16 +3499,7 @@
     ]
   },
   "181": {
-    "text": [
-      "There",
-      "were",
-      "small",
-      "problems",
-      "with",
-      "Mac",
-      "office",
-      "."
-    ],
+    "text": "There were small problems with Mac office .",
     "labels": [
       "O",
       "O",
@@ -6296,26 +3512,7 @@
     ]
   },
   "182": {
-    "text": [
-      "I",
-      "ordered",
-      "my",
-      "2012",
-      "mac",
-      "mini",
-      "after",
-      "being",
-      "disappointed",
-      "with",
-      "spec",
-      "of",
-      "the",
-      "new",
-      "27",
-      "''",
-      "Imacs",
-      "."
-    ],
+    "text": "I ordered my 2012 mac mini after being disappointed with spec of the new 27 '' Imacs .",
     "labels": [
       "O",
       "O",
@@ -6338,19 +3535,7 @@
     ]
   },
   "183": {
-    "text": [
-      "Its",
-      "fast",
-      ",",
-      "easy",
-      "to",
-      "use",
-      "and",
-      "it",
-      "looks",
-      "great",
-      "."
-    ],
+    "text": "Its fast , easy to use and it looks great .",
     "labels": [
       "O",
       "O",
@@ -6366,26 +3551,7 @@
     ]
   },
   "184": {
-    "text": [
-      "Performance",
-      "is",
-      "much",
-      "much",
-      "better",
-      "on",
-      "the",
-      "Pro",
-      ",",
-      "especially",
-      "if",
-      "you",
-      "install",
-      "an",
-      "SSD",
-      "on",
-      "it",
-      "."
-    ],
+    "text": "Performance is much much better on the Pro , especially if you install an SSD on it .",
     "labels": [
       "B",
       "O",
@@ -6408,28 +3574,7 @@
     ]
   },
   "185": {
-    "text": [
-      "Note",
-      ",",
-      "however",
-      ",",
-      "that",
-      "any",
-      "existing",
-      "MagSafe",
-      "accessories",
-      "you",
-      "have",
-      "will",
-      "not",
-      "work",
-      "with",
-      "the",
-      "MagSafe",
-      "2",
-      "connection",
-      "."
-    ],
+    "text": "Note , however , that any existing MagSafe accessories you have will not work with the MagSafe 2 connection .",
     "labels": [
       "O",
       "O",
@@ -6454,41 +3599,7 @@
     ]
   },
   "186": {
-    "text": [
-      "The",
-      "only",
-      "thing",
-      "I",
-      "dislike",
-      "is",
-      "the",
-      "touchpad",
-      ",",
-      "alot",
-      "of",
-      "the",
-      "times",
-      "its",
-      "unresponsive",
-      "and",
-      "does",
-      "things",
-      "I",
-      "dont",
-      "want",
-      "it",
-      "too",
-      ",",
-      "I",
-      "would",
-      "recommend",
-      "using",
-      "a",
-      "mouse",
-      "with",
-      "it",
-      "."
-    ],
+    "text": "The only thing I dislike is the touchpad , alot of the times its unresponsive and does things I dont want it too , I would recommend using a mouse with it .",
     "labels": [
       "O",
       "O",
@@ -6526,39 +3637,7 @@
     ]
   },
   "187": {
-    "text": [
-      "The",
-      "Mac",
-      "mini",
-      "is",
-      "about",
-      "8x",
-      "smaller",
-      "than",
-      "my",
-      "old",
-      "computer",
-      "which",
-      "is",
-      "a",
-      "huge",
-      "bonus",
-      "and",
-      "runs",
-      "very",
-      "quiet",
-      ",",
-      "actually",
-      "the",
-      "fans",
-      "are",
-      "n't",
-      "audible",
-      "unlike",
-      "my",
-      "old",
-      "pc"
-    ],
+    "text": "The Mac mini is about 8x smaller than my old computer which is a huge bonus and runs very quiet , actually the fans are n't audible unlike my old pc",
     "labels": [
       "O",
       "O",
@@ -6594,32 +3673,7 @@
     ]
   },
   "188": {
-    "text": [
-      "I",
-      "thought",
-      "the",
-      "transition",
-      "would",
-      "be",
-      "difficult",
-      "at",
-      "best",
-      "and",
-      "would",
-      "take",
-      "some",
-      "time",
-      "to",
-      "fully",
-      "familiarize",
-      "myself",
-      "with",
-      "the",
-      "new",
-      "Mac",
-      "ecosystem",
-      "."
-    ],
+    "text": "I thought the transition would be difficult at best and would take some time to fully familiarize myself with the new Mac ecosystem .",
     "labels": [
       "O",
       "O",
@@ -6648,17 +3702,7 @@
     ]
   },
   "189": {
-    "text": [
-      "It",
-      "'s",
-      "absolutely",
-      "wonderful",
-      "and",
-      "worth",
-      "the",
-      "price",
-      "!"
-    ],
+    "text": "It 's absolutely wonderful and worth the price !",
     "labels": [
       "O",
       "O",
@@ -6672,28 +3716,7 @@
     ]
   },
   "190": {
-    "text": [
-      "I",
-      "am",
-      "please",
-      "with",
-      "the",
-      "products",
-      "ease",
-      "of",
-      "use",
-      ";",
-      "out",
-      "of",
-      "the",
-      "box",
-      "ready",
-      ";",
-      "appearance",
-      "and",
-      "functionality",
-      "."
-    ],
+    "text": "I am please with the products ease of use ; out of the box ready ; appearance and functionality .",
     "labels": [
       "O",
       "O",
@@ -6718,25 +3741,7 @@
     ]
   },
   "191": {
-    "text": [
-      "Perfect",
-      "for",
-      "all",
-      "my",
-      "graphic",
-      "design",
-      "classes",
-      "I",
-      "'m",
-      "taking",
-      "this",
-      "year",
-      "in",
-      "college",
-      ":",
-      "-",
-      ")"
-    ],
+    "text": "Perfect for all my graphic design classes I 'm taking this year in college : - )",
     "labels": [
       "O",
       "O",
@@ -6758,17 +3763,7 @@
     ]
   },
   "192": {
-    "text": [
-      "I",
-      "will",
-      "not",
-      "be",
-      "using",
-      "that",
-      "slot",
-      "again",
-      "."
-    ],
+    "text": "I will not be using that slot again .",
     "labels": [
       "O",
       "O",
@@ -6782,24 +3777,7 @@
     ]
   },
   "193": {
-    "text": [
-      "The",
-      "OS",
-      "is",
-      "fast",
-      "and",
-      "fluid",
-      ",",
-      "everything",
-      "is",
-      "organized",
-      "and",
-      "it",
-      "'s",
-      "just",
-      "beautiful",
-      "."
-    ],
+    "text": "The OS is fast and fluid , everything is organized and it 's just beautiful .",
     "labels": [
       "O",
       "B",
@@ -6820,14 +3798,7 @@
     ]
   },
   "194": {
-    "text": [
-      "They",
-      "are",
-      "simpler",
-      "to",
-      "use",
-      "."
-    ],
+    "text": "They are simpler to use .",
     "labels": [
       "O",
       "O",
@@ -6838,22 +3809,7 @@
     ]
   },
   "195": {
-    "text": [
-      "!",
-      "so",
-      "nice",
-      "..",
-      "stable",
-      "..",
-      "fast",
-      "..",
-      "now",
-      "i",
-      "got",
-      "my",
-      "SSD",
-      "!"
-    ],
+    "text": "! so nice .. stable .. fast .. now i got my SSD !",
     "labels": [
       "O",
       "O",
@@ -6872,15 +3828,7 @@
     ]
   },
   "196": {
-    "text": [
-      "I",
-      "love",
-      "the",
-      "quick",
-      "start",
-      "up",
-      "."
-    ],
+    "text": "I love the quick start up .",
     "labels": [
       "O",
       "O",
@@ -6892,20 +3840,7 @@
     ]
   },
   "197": {
-    "text": [
-      "You",
-      "just",
-      "can",
-      "not",
-      "beat",
-      "the",
-      "functionality",
-      "of",
-      "an",
-      "Apple",
-      "device",
-      "."
-    ],
+    "text": "You just can not beat the functionality of an Apple device .",
     "labels": [
       "O",
       "O",
@@ -6922,16 +3857,7 @@
     ]
   },
   "198": {
-    "text": [
-      "Yet",
-      "my",
-      "mac",
-      "continues",
-      "to",
-      "function",
-      "properly",
-      "."
-    ],
+    "text": "Yet my mac continues to function properly .",
     "labels": [
       "O",
       "O",
@@ -6944,13 +3870,7 @@
     ]
   },
   "199": {
-    "text": [
-      "Graphics",
-      "are",
-      "much",
-      "improved",
-      "."
-    ],
+    "text": "Graphics are much improved .",
     "labels": [
       "B",
       "O",
@@ -6960,33 +3880,7 @@
     ]
   },
   "200": {
-    "text": [
-      "Here",
-      "are",
-      "the",
-      "things",
-      "that",
-      "made",
-      "me",
-      "confident",
-      "with",
-      "my",
-      "purchase",
-      ":",
-      "Build",
-      "Quality",
-      "-",
-      "Seriously",
-      ",",
-      "you",
-      "ca",
-      "n't",
-      "beat",
-      "a",
-      "unibody",
-      "construction",
-      "."
-    ],
+    "text": "Here are the things that made me confident with my purchase : Build Quality - Seriously , you ca n't beat a unibody construction .",
     "labels": [
       "O",
       "O",
@@ -7016,16 +3910,7 @@
     ]
   },
   "201": {
-    "text": [
-      "It",
-      "provides",
-      "much",
-      "more",
-      "flexibility",
-      "for",
-      "connectivity",
-      "."
-    ],
+    "text": "It provides much more flexibility for connectivity .",
     "labels": [
       "O",
       "O",
@@ -7038,13 +3923,7 @@
     ]
   },
   "202": {
-    "text": [
-      "Mac",
-      "tutorials",
-      "do",
-      "help",
-      "."
-    ],
+    "text": "Mac tutorials do help .",
     "labels": [
       "B",
       "I",
@@ -7054,17 +3933,7 @@
     ]
   },
   "203": {
-    "text": [
-      "The",
-      "technical",
-      "support",
-      "was",
-      "not",
-      "helpful",
-      "as",
-      "well",
-      "."
-    ],
+    "text": "The technical support was not helpful as well .",
     "labels": [
       "O",
       "B",
@@ -7078,19 +3947,7 @@
     ]
   },
   "204": {
-    "text": [
-      "I",
-      "got",
-      "the",
-      "new",
-      "adapter",
-      "and",
-      "there",
-      "was",
-      "no",
-      "change",
-      "."
-    ],
+    "text": "I got the new adapter and there was no change .",
     "labels": [
       "O",
       "O",
@@ -7106,21 +3963,7 @@
     ]
   },
   "205": {
-    "text": [
-      "Logic",
-      "board",
-      "utterly",
-      "fried",
-      ",",
-      "cried",
-      ",",
-      "and",
-      "laid",
-      "down",
-      "and",
-      "died",
-      "."
-    ],
+    "text": "Logic board utterly fried , cried , and laid down and died .",
     "labels": [
       "B",
       "I",
@@ -7138,24 +3981,7 @@
     ]
   },
   "206": {
-    "text": [
-      "The",
-      "sound",
-      "was",
-      "crappy",
-      "even",
-      "when",
-      "you",
-      "turn",
-      "up",
-      "the",
-      "volume",
-      "still",
-      "the",
-      "same",
-      "results",
-      "."
-    ],
+    "text": "The sound was crappy even when you turn up the volume still the same results .",
     "labels": [
       "O",
       "B",
@@ -7176,18 +4002,7 @@
     ]
   },
   "207": {
-    "text": [
-      "OSX",
-      "Lion",
-      "is",
-      "a",
-      "great",
-      "performer..extremely",
-      "fast",
-      "and",
-      "reliable",
-      "."
-    ],
+    "text": "OSX Lion is a great performer..extremely fast and reliable .",
     "labels": [
       "B",
       "I",
@@ -7202,39 +4017,7 @@
     ]
   },
   "208": {
-    "text": [
-      "Having",
-      "heard",
-      "from",
-      "friends",
-      "and",
-      "family",
-      "about",
-      "how",
-      "reliable",
-      "a",
-      "Mac",
-      "product",
-      "is",
-      ",",
-      "I",
-      "never",
-      "expected",
-      "to",
-      "have",
-      "an",
-      "application",
-      "crash",
-      "within",
-      "the",
-      "first",
-      "month",
-      ",",
-      "but",
-      "I",
-      "did",
-      "."
-    ],
+    "text": "Having heard from friends and family about how reliable a Mac product is , I never expected to have an application crash within the first month , but I did .",
     "labels": [
       "O",
       "O",
@@ -7270,17 +4053,7 @@
     ]
   },
   "209": {
-    "text": [
-      "The",
-      "Macbook",
-      "pro",
-      "'s",
-      "physical",
-      "form",
-      "is",
-      "wonderful",
-      "."
-    ],
+    "text": "The Macbook pro 's physical form is wonderful .",
     "labels": [
       "O",
       "O",
@@ -7294,24 +4067,7 @@
     ]
   },
   "210": {
-    "text": [
-      "The",
-      "Mini",
-      "'s",
-      "body",
-      "has",
-      "n't",
-      "changed",
-      "since",
-      "late",
-      "2010-",
-      "and",
-      "for",
-      "a",
-      "good",
-      "reason",
-      "."
-    ],
+    "text": "The Mini 's body has n't changed since late 2010- and for a good reason .",
     "labels": [
       "O",
       "O",
@@ -7332,23 +4088,7 @@
     ]
   },
   "211": {
-    "text": [
-      "The",
-      "unibody",
-      "construction",
-      "really",
-      "does",
-      "feel",
-      "lot",
-      "more",
-      "solid",
-      "than",
-      "Apple",
-      "'s",
-      "previous",
-      "laptops",
-      "."
-    ],
+    "text": "The unibody construction really does feel lot more solid than Apple 's previous laptops .",
     "labels": [
       "O",
       "B",
@@ -7368,15 +4108,7 @@
     ]
   },
   "212": {
-    "text": [
-      "3D",
-      "rendering",
-      "slows",
-      "it",
-      "down",
-      "considerably",
-      "."
-    ],
+    "text": "3D rendering slows it down considerably .",
     "labels": [
       "B",
       "I",
@@ -7388,51 +4120,7 @@
     ]
   },
   "213": {
-    "text": [
-      "fast",
-      ",",
-      "great",
-      "screen",
-      ",",
-      "beautiful",
-      "apps",
-      "for",
-      "a",
-      "laptop",
-      ";",
-      "priced",
-      "at",
-      "1100",
-      "on",
-      "the",
-      "apple",
-      "website",
-      ";",
-      "amazon",
-      "had",
-      "it",
-      "for",
-      "1098+",
-      "tax",
-      "-",
-      "plus",
-      "i",
-      "had",
-      "a",
-      "10",
-      "%",
-      "off",
-      "coupon",
-      "from",
-      "amazon-cost",
-      "me",
-      "998",
-      "plus",
-      "tax-",
-      "1070-",
-      "OTD",
-      "!"
-    ],
+    "text": "fast , great screen , beautiful apps for a laptop ; priced at 1100 on the apple website ; amazon had it for 1098+ tax - plus i had a 10 % off coupon from amazon-cost me 998 plus tax- 1070- OTD !",
     "labels": [
       "O",
       "O",
@@ -7480,21 +4168,7 @@
     ]
   },
   "214": {
-    "text": [
-      "All",
-      "the",
-      "ports",
-      "are",
-      "much",
-      "needed",
-      "since",
-      "this",
-      "is",
-      "my",
-      "main",
-      "computer",
-      "."
-    ],
+    "text": "All the ports are much needed since this is my main computer .",
     "labels": [
       "O",
       "O",
@@ -7512,79 +4186,7 @@
     ]
   },
   "215": {
-    "text": [
-      "The",
-      "Like",
-      "New",
-      "condition",
-      "of",
-      "the",
-      "iMac",
-      "MC309LL/A",
-      "on",
-      "Amazon",
-      "is",
-      "at",
-      "$",
-      "900+",
-      "level",
-      "only",
-      ",",
-      "and",
-      "it",
-      "is",
-      "a",
-      "Quad-Core",
-      "2.5",
-      "GHz",
-      "CPU",
-      "(",
-      "similar",
-      "to",
-      "the",
-      "$",
-      "799",
-      "Mini",
-      ")",
-      ",",
-      "with",
-      "Radeon",
-      "HD",
-      "6750M",
-      "512MB",
-      "graphic",
-      "card",
-      "(",
-      "this",
-      "mini",
-      "is",
-      "integrated",
-      "Intel",
-      "4000",
-      "card",
-      ")",
-      ",",
-      "and",
-      "it",
-      "even",
-      "comes",
-      "with",
-      "wireless",
-      "Apple",
-      "Keyboard",
-      "and",
-      "Mouse",
-      ",",
-      "all",
-      "put",
-      "together",
-      "in",
-      "neat",
-      "and",
-      "nice",
-      "package",
-      "."
-    ],
+    "text": "The Like New condition of the iMac MC309LL/A on Amazon is at $ 900+ level only , and it is a Quad-Core 2.5 GHz CPU ( similar to the $ 799 Mini ) , with Radeon HD 6750M 512MB graphic card ( this mini is integrated Intel 4000 card ) , and it even comes with wireless Apple Keyboard and Mouse , all put together in neat and nice package .",
     "labels": [
       "O",
       "O",
@@ -7660,25 +4262,7 @@
     ]
   },
   "216": {
-    "text": [
-      "Put",
-      "a",
-      "cover",
-      "on",
-      "it",
-      "and",
-      "is",
-      "a",
-      "little",
-      "better",
-      "but",
-      "that",
-      "is",
-      "my",
-      "only",
-      "complaint",
-      "."
-    ],
+    "text": "Put a cover on it and is a little better but that is my only complaint .",
     "labels": [
       "O",
       "O",
@@ -7700,19 +4284,7 @@
     ]
   },
   "217": {
-    "text": [
-      "Within",
-      "a",
-      "few",
-      "hours",
-      "I",
-      "was",
-      "using",
-      "the",
-      "gestures",
-      "unconsciously",
-      "."
-    ],
+    "text": "Within a few hours I was using the gestures unconsciously .",
     "labels": [
       "O",
       "O",
@@ -7728,40 +4300,7 @@
     ]
   },
   "218": {
-    "text": [
-      "This",
-      "mac",
-      "does",
-      "come",
-      "with",
-      "an",
-      "extender",
-      "cable",
-      "and",
-      "I",
-      "'m",
-      "using",
-      "mine",
-      "right",
-      "now",
-      "hoping",
-      "the",
-      "cable",
-      "will",
-      "stay",
-      "nice",
-      "for",
-      "the",
-      "many",
-      "years",
-      "I",
-      "plan",
-      "on",
-      "using",
-      "this",
-      "mac",
-      "."
-    ],
+    "text": "This mac does come with an extender cable and I 'm using mine right now hoping the cable will stay nice for the many years I plan on using this mac .",
     "labels": [
       "O",
       "O",
@@ -7798,18 +4337,7 @@
     ]
   },
   "219": {
-    "text": [
-      "The",
-      "2.9ghz",
-      "dual-core",
-      "i7",
-      "chip",
-      "really",
-      "out",
-      "does",
-      "itself",
-      "."
-    ],
+    "text": "The 2.9ghz dual-core i7 chip really out does itself .",
     "labels": [
       "O",
       "B",
@@ -7824,26 +4352,7 @@
     ]
   },
   "220": {
-    "text": [
-      "It",
-      "is",
-      "pretty",
-      "snappy",
-      "and",
-      "starts",
-      "up",
-      "in",
-      "about",
-      "30",
-      "seconds",
-      "which",
-      "is",
-      "good",
-      "enough",
-      "for",
-      "me",
-      "."
-    ],
+    "text": "It is pretty snappy and starts up in about 30 seconds which is good enough for me .",
     "labels": [
       "O",
       "O",
@@ -7866,14 +4375,7 @@
     ]
   },
   "221": {
-    "text": [
-      "Not",
-      "sure",
-      "on",
-      "Windows",
-      "8",
-      "."
-    ],
+    "text": "Not sure on Windows 8 .",
     "labels": [
       "O",
       "O",
@@ -7884,20 +4386,7 @@
     ]
   },
   "222": {
-    "text": [
-      "My",
-      "one",
-      "complaint",
-      "is",
-      "that",
-      "there",
-      "was",
-      "no",
-      "internal",
-      "CD",
-      "drive",
-      "."
-    ],
+    "text": "My one complaint is that there was no internal CD drive .",
     "labels": [
       "O",
       "O",
@@ -7914,19 +4403,7 @@
     ]
   },
   "223": {
-    "text": [
-      "This",
-      "newer",
-      "netbook",
-      "has",
-      "no",
-      "hard",
-      "drive",
-      "or",
-      "network",
-      "lights",
-      "."
-    ],
+    "text": "This newer netbook has no hard drive or network lights .",
     "labels": [
       "O",
       "O",
@@ -7942,22 +4419,7 @@
     ]
   },
   "224": {
-    "text": [
-      "Not",
-      "too",
-      "expense",
-      "and",
-      "has",
-      "enough",
-      "storage",
-      "for",
-      "most",
-      "users",
-      "and",
-      "many",
-      "ports",
-      "."
-    ],
+    "text": "Not too expense and has enough storage for most users and many ports .",
     "labels": [
       "O",
       "O",
@@ -7976,25 +4438,7 @@
     ]
   },
   "225": {
-    "text": [
-      "The",
-      "audio",
-      "volume",
-      "is",
-      "quite",
-      "low",
-      "and",
-      "virtually",
-      "unusable",
-      "in",
-      "a",
-      "room",
-      "with",
-      "any",
-      "background",
-      "activity",
-      "."
-    ],
+    "text": "The audio volume is quite low and virtually unusable in a room with any background activity .",
     "labels": [
       "O",
       "B",
@@ -8016,20 +4460,7 @@
     ]
   },
   "226": {
-    "text": [
-      "It",
-      "is",
-      "lightweight",
-      "and",
-      "the",
-      "perfect",
-      "size",
-      "to",
-      "carry",
-      "to",
-      "class",
-      "."
-    ],
+    "text": "It is lightweight and the perfect size to carry to class .",
     "labels": [
       "O",
       "O",
@@ -8046,17 +4477,7 @@
     ]
   },
   "227": {
-    "text": [
-      "The",
-      "MBP",
-      "is",
-      "beautiful",
-      "has",
-      "many",
-      "wonderful",
-      "capabilities",
-      "."
-    ],
+    "text": "The MBP is beautiful has many wonderful capabilities .",
     "labels": [
       "O",
       "O",
@@ -8070,22 +4491,7 @@
     ]
   },
   "228": {
-    "text": [
-      "I",
-      "thought",
-      "that",
-      "it",
-      "will",
-      "be",
-      "fine",
-      ",",
-      "if",
-      "i",
-      "do",
-      "some",
-      "settings",
-      "."
-    ],
+    "text": "I thought that it will be fine , if i do some settings .",
     "labels": [
       "O",
       "O",
@@ -8104,12 +4510,7 @@
     ]
   },
   "229": {
-    "text": [
-      "Runs",
-      "very",
-      "smoothly",
-      "."
-    ],
+    "text": "Runs very smoothly .",
     "labels": [
       "B",
       "O",
@@ -8118,18 +4519,7 @@
     ]
   },
   "230": {
-    "text": [
-      "Boot-up",
-      "slowed",
-      "significantly",
-      "after",
-      "all",
-      "Windows",
-      "updates",
-      "were",
-      "installed",
-      "."
-    ],
+    "text": "Boot-up slowed significantly after all Windows updates were installed .",
     "labels": [
       "B",
       "O",
@@ -8144,36 +4534,7 @@
     ]
   },
   "231": {
-    "text": [
-      "It",
-      "was",
-      "important",
-      "that",
-      "it",
-      "was",
-      "powerful",
-      "enough",
-      "to",
-      "do",
-      "all",
-      "of",
-      "the",
-      "tasks",
-      "he",
-      "needed",
-      "on",
-      "the",
-      "internet",
-      ",",
-      "word",
-      "processing",
-      ",",
-      "graphic",
-      "design",
-      "and",
-      "gaming",
-      "."
-    ],
+    "text": "It was important that it was powerful enough to do all of the tasks he needed on the internet , word processing , graphic design and gaming .",
     "labels": [
       "O",
       "O",
@@ -8206,56 +4567,7 @@
     ]
   },
   "232": {
-    "text": [
-      "I",
-      "like",
-      "the",
-      "Mini",
-      "Mac",
-      "it",
-      "was",
-      "easy",
-      "to",
-      "setup",
-      "and",
-      "install",
-      ",",
-      "but",
-      "I",
-      "am",
-      "learning",
-      "as",
-      "I",
-      "go",
-      "and",
-      "could",
-      "use",
-      "a",
-      "tutorial",
-      "to",
-      "learn",
-      "how",
-      "to",
-      "use",
-      "some",
-      "of",
-      "the",
-      "features",
-      "I",
-      "was",
-      "use",
-      "to",
-      "on",
-      "the",
-      "PC",
-      "especially",
-      "the",
-      "right",
-      "mouse",
-      "click",
-      "menu",
-      "."
-    ],
+    "text": "I like the Mini Mac it was easy to setup and install , but I am learning as I go and could use a tutorial to learn how to use some of the features I was use to on the PC especially the right mouse click menu .",
     "labels": [
       "O",
       "O",
@@ -8308,12 +4620,7 @@
     ]
   },
   "233": {
-    "text": [
-      "Runs",
-      "real",
-      "quick",
-      "."
-    ],
+    "text": "Runs real quick .",
     "labels": [
       "B",
       "O",
@@ -8322,24 +4629,7 @@
     ]
   },
   "234": {
-    "text": [
-      "Since",
-      "the",
-      "machine",
-      "'s",
-      "slim",
-      "profile",
-      "is",
-      "critical",
-      "to",
-      "me",
-      ",",
-      "that",
-      "was",
-      "a",
-      "problem",
-      "."
-    ],
+    "text": "Since the machine 's slim profile is critical to me , that was a problem .",
     "labels": [
       "O",
       "O",
@@ -8360,28 +4650,7 @@
     ]
   },
   "235": {
-    "text": [
-      "WiFi",
-      "capability",
-      ",",
-      "disk",
-      "drive",
-      "and",
-      "multiple",
-      "USB",
-      "ports",
-      "to",
-      "connect",
-      "scale",
-      "and",
-      "printers",
-      "was",
-      "all",
-      "that",
-      "was",
-      "required",
-      "."
-    ],
+    "text": "WiFi capability , disk drive and multiple USB ports to connect scale and printers was all that was required .",
     "labels": [
       "B",
       "I",
@@ -8406,49 +4675,7 @@
     ]
   },
   "236": {
-    "text": [
-      "The",
-      "SD",
-      "card",
-      "reader",
-      "is",
-      "slightly",
-      "recessed",
-      "and",
-      "upside",
-      "down",
-      "(",
-      "the",
-      "nail",
-      "slot",
-      "on",
-      "the",
-      "card",
-      "can",
-      "not",
-      "be",
-      "accessed",
-      ")",
-      ",",
-      "if",
-      "this",
-      "was",
-      "a",
-      "self",
-      "ejecting",
-      "slot",
-      "this",
-      "would",
-      "not",
-      "be",
-      "an",
-      "issue",
-      ",",
-      "but",
-      "its",
-      "not",
-      "."
-    ],
+    "text": "The SD card reader is slightly recessed and upside down ( the nail slot on the card can not be accessed ) , if this was a self ejecting slot this would not be an issue , but its not .",
     "labels": [
       "O",
       "B",
@@ -8494,21 +4721,7 @@
     ]
   },
   "237": {
-    "text": [
-      "Soft",
-      "touch",
-      ",",
-      "anodized",
-      "aluminum",
-      "with",
-      "laser",
-      "cut",
-      "precision",
-      "and",
-      "no",
-      "flaws",
-      "."
-    ],
+    "text": "Soft touch , anodized aluminum with laser cut precision and no flaws .",
     "labels": [
       "O",
       "B",
@@ -8526,31 +4739,7 @@
     ]
   },
   "238": {
-    "text": [
-      "Simple",
-      "details",
-      ",",
-      "crafted",
-      "aluminium",
-      "and",
-      "real",
-      "glass",
-      "make",
-      "this",
-      "laptop",
-      "blow",
-      "away",
-      "the",
-      "other",
-      "plastic",
-      "ridden",
-      ",",
-      "bulky",
-      "sticker",
-      "filled",
-      "laptops",
-      "."
-    ],
+    "text": "Simple details , crafted aluminium and real glass make this laptop blow away the other plastic ridden , bulky sticker filled laptops .",
     "labels": [
       "O",
       "O",
@@ -8578,24 +4767,7 @@
     ]
   },
   "239": {
-    "text": [
-      "First",
-      "of",
-      "all",
-      "yes",
-      "this",
-      "is",
-      "a",
-      "mac",
-      "and",
-      "it",
-      "has",
-      "that",
-      "nice",
-      "brushed",
-      "aluminum",
-      "."
-    ],
+    "text": "First of all yes this is a mac and it has that nice brushed aluminum .",
     "labels": [
       "O",
       "O",
@@ -8616,12 +4788,7 @@
     ]
   },
   "240": {
-    "text": [
-      "No",
-      "HDMI",
-      "port",
-      "."
-    ],
+    "text": "No HDMI port .",
     "labels": [
       "O",
       "B",
@@ -8630,14 +4797,7 @@
     ]
   },
   "241": {
-    "text": [
-      "Customization",
-      "on",
-      "mac",
-      "is",
-      "impossible",
-      "."
-    ],
+    "text": "Customization on mac is impossible .",
     "labels": [
       "B",
       "O",
@@ -8648,24 +4808,7 @@
     ]
   },
   "242": {
-    "text": [
-      "Plus",
-      "two",
-      "finger",
-      "clicking",
-      "as",
-      "a",
-      "replacement",
-      "for",
-      "the",
-      "right",
-      "click",
-      "button",
-      "is",
-      "surprisingly",
-      "intuitive",
-      "."
-    ],
+    "text": "Plus two finger clicking as a replacement for the right click button is surprisingly intuitive .",
     "labels": [
       "O",
       "B",
@@ -8686,13 +4829,7 @@
     ]
   },
   "243": {
-    "text": [
-      "The",
-      "SuperDrive",
-      "is",
-      "quiet",
-      "."
-    ],
+    "text": "The SuperDrive is quiet .",
     "labels": [
       "O",
       "B",
@@ -8702,29 +4839,7 @@
     ]
   },
   "244": {
-    "text": [
-      "The",
-      "battery",
-      "was",
-      "completely",
-      "dead",
-      ",",
-      "in",
-      "fact",
-      "it",
-      "had",
-      "grown",
-      "about",
-      "a",
-      "quarter",
-      "inch",
-      "thick",
-      "lump",
-      "on",
-      "the",
-      "underside",
-      "."
-    ],
+    "text": "The battery was completely dead , in fact it had grown about a quarter inch thick lump on the underside .",
     "labels": [
       "O",
       "B",
@@ -8750,19 +4865,7 @@
     ]
   },
   "245": {
-    "text": [
-      "if",
-      "yo",
-      "like",
-      "practicality",
-      "this",
-      "is",
-      "the",
-      "laptop",
-      "for",
-      "you",
-      "."
-    ],
+    "text": "if yo like practicality this is the laptop for you .",
     "labels": [
       "O",
       "O",
@@ -8778,13 +4881,7 @@
     ]
   },
   "246": {
-    "text": [
-      "The",
-      "OS",
-      "is",
-      "great",
-      "."
-    ],
+    "text": "The OS is great .",
     "labels": [
       "O",
       "B",
@@ -8794,19 +4891,7 @@
     ]
   },
   "247": {
-    "text": [
-      "CONS",
-      ":",
-      "Price",
-      "is",
-      "a",
-      "bit",
-      "ridiculous",
-      ",",
-      "kinda",
-      "heavy",
-      "."
-    ],
+    "text": "CONS : Price is a bit ridiculous , kinda heavy .",
     "labels": [
       "O",
       "O",
@@ -8822,20 +4907,7 @@
     ]
   },
   "248": {
-    "text": [
-      "Which",
-      "it",
-      "did",
-      "not",
-      "have",
-      ",",
-      "only",
-      "3",
-      "USB",
-      "2",
-      "ports",
-      "."
-    ],
+    "text": "Which it did not have , only 3 USB 2 ports .",
     "labels": [
       "O",
       "O",
@@ -8852,21 +4924,7 @@
     ]
   },
   "249": {
-    "text": [
-      "No",
-      "startup",
-      "disk",
-      "was",
-      "not",
-      "included",
-      "but",
-      "that",
-      "may",
-      "be",
-      "my",
-      "fault",
-      "."
-    ],
+    "text": "No startup disk was not included but that may be my fault .",
     "labels": [
       "O",
       "B",
@@ -8884,24 +4942,7 @@
     ]
   },
   "250": {
-    "text": [
-      "It",
-      "is",
-      "very",
-      "fast",
-      "and",
-      "has",
-      "everything",
-      "that",
-      "I",
-      "need",
-      "except",
-      "for",
-      "a",
-      "word",
-      "program",
-      "."
-    ],
+    "text": "It is very fast and has everything that I need except for a word program .",
     "labels": [
       "O",
       "O",
@@ -8922,18 +4963,7 @@
     ]
   },
   "251": {
-    "text": [
-      "Needs",
-      "a",
-      "CD/DVD",
-      "drive",
-      "and",
-      "a",
-      "bigger",
-      "power",
-      "switch",
-      "."
-    ],
+    "text": "Needs a CD/DVD drive and a bigger power switch .",
     "labels": [
       "O",
       "O",
@@ -8948,22 +4978,7 @@
     ]
   },
   "252": {
-    "text": [
-      "My",
-      "laptop",
-      "with",
-      "Windows",
-      "7",
-      "crashed",
-      "and",
-      "I",
-      "did",
-      "not",
-      "want",
-      "Windows",
-      "8",
-      "."
-    ],
+    "text": "My laptop with Windows 7 crashed and I did not want Windows 8 .",
     "labels": [
       "O",
       "O",
@@ -8982,30 +4997,7 @@
     ]
   },
   "253": {
-    "text": [
-      "Easy",
-      "to",
-      "install",
-      "also",
-      "small",
-      "to",
-      "leave",
-      "anywhere",
-      "at",
-      "your",
-      "bedroom",
-      "also",
-      "very",
-      "easy",
-      "to",
-      "configure",
-      "for",
-      "ADSl",
-      "cable",
-      "or",
-      "wifi",
-      "."
-    ],
+    "text": "Easy to install also small to leave anywhere at your bedroom also very easy to configure for ADSl cable or wifi .",
     "labels": [
       "O",
       "O",
@@ -9032,11 +5024,7 @@
     ]
   },
   "254": {
-    "text": [
-      "Nice",
-      "packing",
-      "."
-    ],
+    "text": "Nice packing .",
     "labels": [
       "O",
       "B",
@@ -9044,24 +5032,7 @@
     ]
   },
   "255": {
-    "text": [
-      "I",
-      "switched",
-      "to",
-      "this",
-      "because",
-      "I",
-      "wanted",
-      "something",
-      "different",
-      ",",
-      "even",
-      "though",
-      "I",
-      "miss",
-      "windows",
-      "."
-    ],
+    "text": "I switched to this because I wanted something different , even though I miss windows .",
     "labels": [
       "O",
       "O",
@@ -9082,27 +5053,7 @@
     ]
   },
   "256": {
-    "text": [
-      "Apple",
-      "no",
-      "longer",
-      "includes",
-      "iDVD",
-      "with",
-      "the",
-      "computer",
-      "and",
-      "furthermore",
-      ",",
-      "Apple",
-      "does",
-      "n't",
-      "even",
-      "offer",
-      "it",
-      "anymore",
-      "!"
-    ],
+    "text": "Apple no longer includes iDVD with the computer and furthermore , Apple does n't even offer it anymore !",
     "labels": [
       "O",
       "O",
@@ -9126,19 +5077,7 @@
     ]
   },
   "257": {
-    "text": [
-      "I",
-      "also",
-      "wanted",
-      "Windows",
-      "7",
-      ",",
-      "which",
-      "this",
-      "one",
-      "has",
-      "."
-    ],
+    "text": "I also wanted Windows 7 , which this one has .",
     "labels": [
       "O",
       "O",
@@ -9154,23 +5093,7 @@
     ]
   },
   "258": {
-    "text": [
-      "At",
-      "first",
-      ",",
-      "I",
-      "feel",
-      "a",
-      "little",
-      "bit",
-      "uncomfortable",
-      "in",
-      "using",
-      "the",
-      "Mac",
-      "system",
-      "."
-    ],
+    "text": "At first , I feel a little bit uncomfortable in using the Mac system .",
     "labels": [
       "O",
       "O",
@@ -9190,28 +5113,7 @@
     ]
   },
   "259": {
-    "text": [
-      "It",
-      "just",
-      "works",
-      "out",
-      "of",
-      "the",
-      "box",
-      "and",
-      "you",
-      "have",
-      "a",
-      "lot",
-      "of",
-      "cool",
-      "software",
-      "included",
-      "with",
-      "the",
-      "OS",
-      "."
-    ],
+    "text": "It just works out of the box and you have a lot of cool software included with the OS .",
     "labels": [
       "O",
       "O",
@@ -9236,26 +5138,7 @@
     ]
   },
   "260": {
-    "text": [
-      "its",
-      "as",
-      "advertised",
-      "on",
-      "here",
-      "...",
-      "..",
-      "it",
-      "works",
-      "great",
-      "and",
-      "is",
-      "not",
-      "a",
-      "waste",
-      "of",
-      "money",
-      "!"
-    ],
+    "text": "its as advertised on here ... .. it works great and is not a waste of money !",
     "labels": [
       "O",
       "O",
@@ -9278,18 +5161,7 @@
     ]
   },
   "261": {
-    "text": [
-      "Premium",
-      "price",
-      "for",
-      "the",
-      "OS",
-      "more",
-      "than",
-      "anything",
-      "else",
-      "."
-    ],
+    "text": "Premium price for the OS more than anything else .",
     "labels": [
       "O",
       "B",
@@ -9304,31 +5176,7 @@
     ]
   },
   "262": {
-    "text": [
-      "I",
-      "was",
-      "a",
-      "little",
-      "concerned",
-      "about",
-      "the",
-      "touch",
-      "pad",
-      "based",
-      "on",
-      "reviews",
-      ",",
-      "but",
-      "I",
-      "'ve",
-      "found",
-      "it",
-      "fine",
-      "to",
-      "work",
-      "with",
-      "."
-    ],
+    "text": "I was a little concerned about the touch pad based on reviews , but I 've found it fine to work with .",
     "labels": [
       "O",
       "O",
@@ -9356,30 +5204,7 @@
     ]
   },
   "263": {
-    "text": [
-      "However",
-      ",",
-      "the",
-      "experience",
-      "was",
-      "great",
-      "since",
-      "the",
-      "OS",
-      "does",
-      "not",
-      "become",
-      "unstable",
-      "and",
-      "the",
-      "application",
-      "will",
-      "simply",
-      "shutdown",
-      "and",
-      "reopen",
-      "."
-    ],
+    "text": "However , the experience was great since the OS does not become unstable and the application will simply shutdown and reopen .",
     "labels": [
       "O",
       "O",
@@ -9406,19 +5231,7 @@
     ]
   },
   "264": {
-    "text": [
-      "The",
-      "battery",
-      "is",
-      "not",
-      "as",
-      "shown",
-      "in",
-      "the",
-      "product",
-      "photos",
-      "."
-    ],
+    "text": "The battery is not as shown in the product photos .",
     "labels": [
       "O",
       "B",
@@ -9434,23 +5247,7 @@
     ]
   },
   "265": {
-    "text": [
-      "Shipping",
-      "was",
-      "quick",
-      "and",
-      "product",
-      "described",
-      "was",
-      "the",
-      "product",
-      "sent",
-      "and",
-      "so",
-      "much",
-      "more",
-      "..."
-    ],
+    "text": "Shipping was quick and product described was the product sent and so much more ...",
     "labels": [
       "B",
       "O",
@@ -9470,21 +5267,7 @@
     ]
   },
   "266": {
-    "text": [
-      "the",
-      "retina",
-      "display",
-      "display",
-      "make",
-      "pictures",
-      "i",
-      "took",
-      "years",
-      "ago",
-      "jaw",
-      "dropping",
-      "."
-    ],
+    "text": "the retina display display make pictures i took years ago jaw dropping .",
     "labels": [
       "O",
       "B",
@@ -9502,22 +5285,7 @@
     ]
   },
   "267": {
-    "text": [
-      "The",
-      "Mac",
-      "Mini",
-      "is",
-      "probably",
-      "the",
-      "simplest",
-      "example",
-      "of",
-      "compact",
-      "computing",
-      "out",
-      "there",
-      "."
-    ],
+    "text": "The Mac Mini is probably the simplest example of compact computing out there .",
     "labels": [
       "O",
       "O",
@@ -9536,51 +5304,7 @@
     ]
   },
   "268": {
-    "text": [
-      "Additionally",
-      ",",
-      "there",
-      "is",
-      "barely",
-      "a",
-      "ventilation",
-      "system",
-      "in",
-      "the",
-      "computer",
-      ",",
-      "and",
-      "even",
-      "the",
-      "simple",
-      "activity",
-      "of",
-      "watching",
-      "videos",
-      "let",
-      "alone",
-      "playing",
-      "steam",
-      "games",
-      "causes",
-      "the",
-      "laptop",
-      "to",
-      "get",
-      "very",
-      "very",
-      "hot",
-      ",",
-      "and",
-      "in",
-      "fact",
-      "impossible",
-      "to",
-      "keep",
-      "on",
-      "lap",
-      "."
-    ],
+    "text": "Additionally , there is barely a ventilation system in the computer , and even the simple activity of watching videos let alone playing steam games causes the laptop to get very very hot , and in fact impossible to keep on lap .",
     "labels": [
       "O",
       "O",
@@ -9628,24 +5352,7 @@
     ]
   },
   "269": {
-    "text": [
-      "Chatting",
-      "with",
-      "Acer",
-      "support",
-      ",",
-      "I",
-      "was",
-      "advised",
-      "the",
-      "problem",
-      "was",
-      "corrupted",
-      "operating",
-      "system",
-      "files",
-      "."
-    ],
+    "text": "Chatting with Acer support , I was advised the problem was corrupted operating system files .",
     "labels": [
       "O",
       "O",
@@ -9666,33 +5373,7 @@
     ]
   },
   "270": {
-    "text": [
-      "It",
-      "'s",
-      "been",
-      "a",
-      "couple",
-      "weeks",
-      "since",
-      "the",
-      "purchase",
-      "and",
-      "I",
-      "'m",
-      "struggle",
-      "with",
-      "finding",
-      "the",
-      "correct",
-      "keys",
-      "(",
-      "but",
-      "that",
-      "was",
-      "expected",
-      ")",
-      "."
-    ],
+    "text": "It 's been a couple weeks since the purchase and I 'm struggle with finding the correct keys ( but that was expected ) .",
     "labels": [
       "O",
       "O",
@@ -9722,27 +5403,7 @@
     ]
   },
   "271": {
-    "text": [
-      "Many",
-      "people",
-      "complain",
-      "about",
-      "the",
-      "new",
-      "OS",
-      ",",
-      "and",
-      "it",
-      "'s",
-      "urgent",
-      "for",
-      "Apple",
-      "to",
-      "fix",
-      "it",
-      "asap",
-      "!"
-    ],
+    "text": "Many people complain about the new OS , and it 's urgent for Apple to fix it asap !",
     "labels": [
       "O",
       "O",
@@ -9766,31 +5427,7 @@
     ]
   },
   "272": {
-    "text": [
-      "Now",
-      "that",
-      "I",
-      "have",
-      "upgraded",
-      "to",
-      "Lion",
-      "I",
-      "am",
-      "much",
-      "happier",
-      "about",
-      "MAC",
-      "OS",
-      "and",
-      "have",
-      "just",
-      "bought",
-      "an",
-      "iMac",
-      "for",
-      "office",
-      "."
-    ],
+    "text": "Now that I have upgraded to Lion I am much happier about MAC OS and have just bought an iMac for office .",
     "labels": [
       "O",
       "O",
@@ -9818,14 +5455,7 @@
     ]
   },
   "273": {
-    "text": [
-      "User",
-      "upgradeable",
-      "RAM",
-      "and",
-      "HDD",
-      "."
-    ],
+    "text": "User upgradeable RAM and HDD .",
     "labels": [
       "O",
       "O",
@@ -9836,18 +5466,7 @@
     ]
   },
   "274": {
-    "text": [
-      "But",
-      "I",
-      "wanted",
-      "the",
-      "Pro",
-      "for",
-      "the",
-      "CD/DVD",
-      "player",
-      "."
-    ],
+    "text": "But I wanted the Pro for the CD/DVD player .",
     "labels": [
       "O",
       "O",
@@ -9862,42 +5481,7 @@
     ]
   },
   "275": {
-    "text": [
-      "I",
-      "was",
-      "a",
-      "little",
-      "worry",
-      "at",
-      "first",
-      "because",
-      "I",
-      "do",
-      "n't",
-      "have",
-      "a",
-      "lot",
-      "of",
-      "experience",
-      "with",
-      "os.x",
-      "and",
-      "windows",
-      "has",
-      "always",
-      "been",
-      "second",
-      "nature",
-      "to",
-      "me",
-      "after",
-      "many",
-      "years",
-      "of",
-      "using",
-      "windows",
-      "."
-    ],
+    "text": "I was a little worry at first because I do n't have a lot of experience with os.x and windows has always been second nature to me after many years of using windows .",
     "labels": [
       "O",
       "O",
@@ -9936,22 +5520,7 @@
     ]
   },
   "276": {
-    "text": [
-      "With",
-      "the",
-      "softwares",
-      "supporting",
-      "the",
-      "use",
-      "of",
-      "other",
-      "OS",
-      "makes",
-      "it",
-      "much",
-      "better",
-      "."
-    ],
+    "text": "With the softwares supporting the use of other OS makes it much better .",
     "labels": [
       "O",
       "O",
@@ -9970,45 +5539,7 @@
     ]
   },
   "277": {
-    "text": [
-      "I",
-      "was",
-      "considering",
-      "buying",
-      "the",
-      "Air",
-      ",",
-      "but",
-      "in",
-      "reality",
-      ",",
-      "this",
-      "one",
-      "has",
-      "a",
-      "more",
-      "powerful",
-      "performance",
-      "and",
-      "seems",
-      "much",
-      "more",
-      "convenient",
-      ",",
-      "even",
-      "though",
-      "it",
-      "'s",
-      "about",
-      ".20",
-      "inch",
-      "thicker",
-      "and",
-      "2",
-      "lbs",
-      "heavier",
-      "."
-    ],
+    "text": "I was considering buying the Air , but in reality , this one has a more powerful performance and seems much more convenient , even though it 's about .20 inch thicker and 2 lbs heavier .",
     "labels": [
       "O",
       "O",
@@ -10050,34 +5581,7 @@
     ]
   },
   "278": {
-    "text": [
-      "At",
-      "home",
-      "and",
-      "the",
-      "office",
-      "it",
-      "gets",
-      "plugged",
-      "into",
-      "an",
-      "external",
-      "24",
-      "''",
-      "LCD",
-      "screen",
-      ",",
-      "so",
-      "built",
-      "in",
-      "screen",
-      "size",
-      "is",
-      "not",
-      "terribly",
-      "important",
-      "."
-    ],
+    "text": "At home and the office it gets plugged into an external 24 '' LCD screen , so built in screen size is not terribly important .",
     "labels": [
       "O",
       "O",
@@ -10108,28 +5612,7 @@
     ]
   },
   "279": {
-    "text": [
-      "Just",
-      "beware",
-      "no",
-      "DVD",
-      "slot",
-      "so",
-      "when",
-      "I",
-      "went",
-      "to",
-      "install",
-      "software",
-      "I",
-      "had",
-      "on",
-      "CD",
-      "I",
-      "could",
-      "n't",
-      "."
-    ],
+    "text": "Just beware no DVD slot so when I went to install software I had on CD I could n't .",
     "labels": [
       "O",
       "O",
@@ -10154,36 +5637,7 @@
     ]
   },
   "280": {
-    "text": [
-      "No",
-      "Cd",
-      "Rom",
-      "in",
-      "the",
-      "new",
-      "version",
-      "there",
-      "'s",
-      "no",
-      "way",
-      "I",
-      "'m",
-      "spending",
-      "that",
-      "kind",
-      "of",
-      "money",
-      "on",
-      "something",
-      "has",
-      "less",
-      "features",
-      "than",
-      "the",
-      "older",
-      "version",
-      "."
-    ],
+    "text": "No Cd Rom in the new version there 's no way I 'm spending that kind of money on something has less features than the older version .",
     "labels": [
       "O",
       "B",
@@ -10216,32 +5670,7 @@
     ]
   },
   "281": {
-    "text": [
-      "the",
-      "volume",
-      "is",
-      "really",
-      "low",
-      "to",
-      "low",
-      "for",
-      "a",
-      "laptopwas",
-      "not",
-      "expectin",
-      "t",
-      "volume",
-      "to",
-      "be",
-      "so",
-      "lowan",
-      "i",
-      "hate",
-      "that",
-      "about",
-      "this",
-      "computer"
-    ],
+    "text": "the volume is really low to low for a laptopwas not expectin t volume to be so lowan i hate that about this computer",
     "labels": [
       "O",
       "B",
@@ -10270,28 +5699,7 @@
     ]
   },
   "282": {
-    "text": [
-      "and",
-      "its",
-      "not",
-      "hard",
-      "to",
-      "accidentally",
-      "bang",
-      "it",
-      "against",
-      "something",
-      "so",
-      "i",
-      "recommend",
-      "getting",
-      "a",
-      "case",
-      "to",
-      "protect",
-      "it",
-      "."
-    ],
+    "text": "and its not hard to accidentally bang it against something so i recommend getting a case to protect it .",
     "labels": [
       "O",
       "O",
@@ -10316,24 +5724,7 @@
     ]
   },
   "283": {
-    "text": [
-      "I",
-      "got",
-      "this",
-      "at",
-      "an",
-      "amazing",
-      "price",
-      "from",
-      "Amazon",
-      "and",
-      "it",
-      "arrived",
-      "just",
-      "in",
-      "time",
-      "."
-    ],
+    "text": "I got this at an amazing price from Amazon and it arrived just in time .",
     "labels": [
       "O",
       "O",
@@ -10354,33 +5745,7 @@
     ]
   },
   "284": {
-    "text": [
-      "Every",
-      "time",
-      "I",
-      "log",
-      "into",
-      "the",
-      "system",
-      "after",
-      "a",
-      "few",
-      "hours",
-      ",",
-      "there",
-      "is",
-      "this",
-      "endlessly",
-      "frustrating",
-      "process",
-      "that",
-      "I",
-      "have",
-      "to",
-      "go",
-      "through",
-      "."
-    ],
+    "text": "Every time I log into the system after a few hours , there is this endlessly frustrating process that I have to go through .",
     "labels": [
       "O",
       "O",
@@ -10410,26 +5775,7 @@
     ]
   },
   "285": {
-    "text": [
-      "Put",
-      "a",
-      "SSD",
-      "and",
-      "use",
-      "a",
-      "21",
-      "''",
-      "LED",
-      "screen",
-      ",",
-      "this",
-      "set",
-      "up",
-      "is",
-      "silky",
-      "smooth",
-      "!"
-    ],
+    "text": "Put a SSD and use a 21 '' LED screen , this set up is silky smooth !",
     "labels": [
       "O",
       "O",
@@ -10452,34 +5798,7 @@
     ]
   },
   "286": {
-    "text": [
-      "The",
-      "case",
-      "is",
-      "now",
-      "slightly",
-      "larger",
-      "than",
-      "the",
-      "previous",
-      "generation",
-      ",",
-      "but",
-      "the",
-      "lack",
-      "of",
-      "an",
-      "external",
-      "power",
-      "supply",
-      "justifies",
-      "the",
-      "small",
-      "increase",
-      "in",
-      "size",
-      "."
-    ],
+    "text": "The case is now slightly larger than the previous generation , but the lack of an external power supply justifies the small increase in size .",
     "labels": [
       "O",
       "B",
@@ -10510,63 +5829,7 @@
     ]
   },
   "287": {
-    "text": [
-      "I",
-      "had",
-      "to",
-      "buy",
-      "a",
-      "wireless",
-      "mouse",
-      "to",
-      "go",
-      "with",
-      "it",
-      ",",
-      "as",
-      "I",
-      "am",
-      "old",
-      "school",
-      "and",
-      "hate",
-      "the",
-      "pad",
-      ",",
-      "but",
-      "knew",
-      "that",
-      "before",
-      "I",
-      "bought",
-      "it",
-      ",",
-      "now",
-      "it",
-      "works",
-      "great",
-      ",",
-      "need",
-      "to",
-      "get",
-      "adjusted",
-      "to",
-      "the",
-      "key",
-      "board",
-      ",",
-      "as",
-      "I",
-      "am",
-      "used",
-      "to",
-      "a",
-      "bigger",
-      "one",
-      "and",
-      "pounding",
-      "."
-    ],
+    "text": "I had to buy a wireless mouse to go with it , as I am old school and hate the pad , but knew that before I bought it , now it works great , need to get adjusted to the key board , as I am used to a bigger one and pounding .",
     "labels": [
       "O",
       "O",
@@ -10626,28 +5889,7 @@
     ]
   },
   "288": {
-    "text": [
-      "Has",
-      "all",
-      "the",
-      "other",
-      "features",
-      "I",
-      "wanted",
-      "including",
-      "a",
-      "VGA",
-      "port",
-      ",",
-      "HDMI",
-      ",",
-      "ethernet",
-      "and",
-      "3",
-      "USB",
-      "ports",
-      "."
-    ],
+    "text": "Has all the other features I wanted including a VGA port , HDMI , ethernet and 3 USB ports .",
     "labels": [
       "O",
       "O",
@@ -10672,30 +5914,7 @@
     ]
   },
   "289": {
-    "text": [
-      "The",
-      "only",
-      "thing",
-      "I",
-      "dislike",
-      "about",
-      "this",
-      "laptop",
-      "are",
-      "the",
-      "rubber",
-      "pads",
-      "found",
-      "on",
-      "the",
-      "bottom",
-      "of",
-      "the",
-      "computer",
-      "for",
-      "grip",
-      "."
-    ],
+    "text": "The only thing I dislike about this laptop are the rubber pads found on the bottom of the computer for grip .",
     "labels": [
       "O",
       "O",
@@ -10722,25 +5941,7 @@
     ]
   },
   "290": {
-    "text": [
-      "It",
-      "'s",
-      "a",
-      "decent",
-      "computer",
-      "for",
-      "the",
-      "price",
-      "and",
-      "hopefully",
-      "it",
-      "will",
-      "last",
-      "a",
-      "long",
-      "time",
-      "."
-    ],
+    "text": "It 's a decent computer for the price and hopefully it will last a long time .",
     "labels": [
       "O",
       "O",
@@ -10762,21 +5963,7 @@
     ]
   },
   "291": {
-    "text": [
-      "The",
-      "nicest",
-      "part",
-      "is",
-      "the",
-      "low",
-      "heat",
-      "output",
-      "and",
-      "ultra",
-      "quiet",
-      "operation",
-      "."
-    ],
+    "text": "The nicest part is the low heat output and ultra quiet operation .",
     "labels": [
       "O",
       "O",
@@ -10794,34 +5981,7 @@
     ]
   },
   "292": {
-    "text": [
-      "this",
-      "Mac",
-      "Mini",
-      "does",
-      "not",
-      "have",
-      "a",
-      "built-in",
-      "mic",
-      ",",
-      "and",
-      "it",
-      "would",
-      "seem",
-      "that",
-      "its",
-      "Mac",
-      "OS",
-      "10.9",
-      "does",
-      "not",
-      "handle",
-      "external",
-      "microphones",
-      "properly",
-      "."
-    ],
+    "text": "this Mac Mini does not have a built-in mic , and it would seem that its Mac OS 10.9 does not handle external microphones properly .",
     "labels": [
       "O",
       "O",
@@ -10852,28 +6012,7 @@
     ]
   },
   "293": {
-    "text": [
-      "A",
-      "lot",
-      "of",
-      "features",
-      "and",
-      "shortcuts",
-      "on",
-      "the",
-      "MBP",
-      "that",
-      "I",
-      "was",
-      "never",
-      "exposed",
-      "to",
-      "on",
-      "a",
-      "normal",
-      "PC",
-      "."
-    ],
+    "text": "A lot of features and shortcuts on the MBP that I was never exposed to on a normal PC .",
     "labels": [
       "O",
       "O",
@@ -10898,49 +6037,7 @@
     ]
   },
   "294": {
-    "text": [
-      "Was",
-      "n't",
-      "sure",
-      "if",
-      "I",
-      "was",
-      "going",
-      "to",
-      "like",
-      "it",
-      "much",
-      "less",
-      "love",
-      "it",
-      "so",
-      "I",
-      "went",
-      "to",
-      "a",
-      "local",
-      "best",
-      "buy",
-      "and",
-      "played",
-      "around",
-      "with",
-      "the",
-      "IOS",
-      "system",
-      "on",
-      "a",
-      "Mac",
-      "Pro",
-      "and",
-      "it",
-      "was",
-      "totally",
-      "unique",
-      "and",
-      "different",
-      "."
-    ],
+    "text": "Was n't sure if I was going to like it much less love it so I went to a local best buy and played around with the IOS system on a Mac Pro and it was totally unique and different .",
     "labels": [
       "O",
       "O",
@@ -10986,18 +6083,7 @@
     ]
   },
   "295": {
-    "text": [
-      "air",
-      "has",
-      "higher",
-      "resolution",
-      "but",
-      "the",
-      "fonts",
-      "are",
-      "small",
-      "."
-    ],
+    "text": "air has higher resolution but the fonts are small .",
     "labels": [
       "O",
       "O",
@@ -11012,21 +6098,7 @@
     ]
   },
   "296": {
-    "text": [
-      "working",
-      "with",
-      "Mac",
-      "is",
-      "so",
-      "much",
-      "easier",
-      ",",
-      "so",
-      "many",
-      "cool",
-      "features",
-      "."
-    ],
+    "text": "working with Mac is so much easier , so many cool features .",
     "labels": [
       "B",
       "O",
@@ -11044,15 +6116,7 @@
     ]
   },
   "297": {
-    "text": [
-      "I",
-      "like",
-      "the",
-      "brightness",
-      "and",
-      "adjustments",
-      "."
-    ],
+    "text": "I like the brightness and adjustments .",
     "labels": [
       "O",
       "O",
@@ -11064,20 +6128,7 @@
     ]
   },
   "298": {
-    "text": [
-      "I",
-      "only",
-      "wish",
-      "this",
-      "mac",
-      "had",
-      "a",
-      "CD/DVD",
-      "player",
-      "built",
-      "in",
-      "."
-    ],
+    "text": "I only wish this mac had a CD/DVD player built in .",
     "labels": [
       "O",
       "O",
@@ -11094,23 +6145,7 @@
     ]
   },
   "299": {
-    "text": [
-      "The",
-      "only",
-      "thing",
-      "I",
-      "miss",
-      "is",
-      "that",
-      "my",
-      "old",
-      "Alienware",
-      "laptop",
-      "had",
-      "backlit",
-      "keys",
-      "."
-    ],
+    "text": "The only thing I miss is that my old Alienware laptop had backlit keys .",
     "labels": [
       "O",
       "O",
@@ -11130,23 +6165,7 @@
     ]
   },
   "300": {
-    "text": [
-      "So",
-      "happy",
-      "with",
-      "this",
-      "purchase",
-      ",",
-      "I",
-      "just",
-      "wish",
-      "it",
-      "came",
-      "with",
-      "Microsoft",
-      "Word",
-      "."
-    ],
+    "text": "So happy with this purchase , I just wish it came with Microsoft Word .",
     "labels": [
       "O",
       "O",
@@ -11166,28 +6185,7 @@
     ]
   },
   "301": {
-    "text": [
-      "It",
-      "has",
-      "enough",
-      "memory",
-      "and",
-      "speed",
-      "to",
-      "run",
-      "my",
-      "business",
-      "with",
-      "all",
-      "the",
-      "flexibility",
-      "that",
-      "comes",
-      "with",
-      "a",
-      "laptop",
-      "."
-    ],
+    "text": "It has enough memory and speed to run my business with all the flexibility that comes with a laptop .",
     "labels": [
       "O",
       "O",
@@ -11212,26 +6210,7 @@
     ]
   },
   "302": {
-    "text": [
-      "The",
-      "battery",
-      "life",
-      "is",
-      "excellent",
-      ",",
-      "the",
-      "display",
-      "is",
-      "excellent",
-      ",",
-      "and",
-      "downloading",
-      "apps",
-      "is",
-      "a",
-      "breeze",
-      "."
-    ],
+    "text": "The battery life is excellent , the display is excellent , and downloading apps is a breeze .",
     "labels": [
       "O",
       "B",
@@ -11254,21 +6233,7 @@
     ]
   },
   "303": {
-    "text": [
-      "The",
-      "screen",
-      ",",
-      "the",
-      "software",
-      "and",
-      "the",
-      "smoothness",
-      "of",
-      "the",
-      "operating",
-      "system",
-      "."
-    ],
+    "text": "The screen , the software and the smoothness of the operating system .",
     "labels": [
       "O",
       "O",
@@ -11286,26 +6251,7 @@
     ]
   },
   "304": {
-    "text": [
-      "But",
-      "with",
-      "this",
-      "laptop",
-      ",",
-      "the",
-      "bass",
-      "is",
-      "very",
-      "weak",
-      "and",
-      "the",
-      "sound",
-      "comes",
-      "out",
-      "sounding",
-      "tinny",
-      "."
-    ],
+    "text": "But with this laptop , the bass is very weak and the sound comes out sounding tinny .",
     "labels": [
       "O",
       "O",
@@ -11328,25 +6274,7 @@
     ]
   },
   "305": {
-    "text": [
-      "The",
-      "built",
-      "quality",
-      "is",
-      "really",
-      "good",
-      ",",
-      "I",
-      "was",
-      "so",
-      "Happy",
-      "and",
-      "excited",
-      "about",
-      "this",
-      "Product",
-      "."
-    ],
+    "text": "The built quality is really good , I was so Happy and excited about this Product .",
     "labels": [
       "O",
       "B",
@@ -11368,16 +6296,7 @@
     ]
   },
   "306": {
-    "text": [
-      "I",
-      "am",
-      "loving",
-      "the",
-      "fast",
-      "performance",
-      "also",
-      "."
-    ],
+    "text": "I am loving the fast performance also .",
     "labels": [
       "O",
       "O",
@@ -11390,31 +6309,7 @@
     ]
   },
   "307": {
-    "text": [
-      "Further",
-      ",",
-      "this",
-      "Mac",
-      "Mini",
-      "has",
-      "a",
-      "sloppy",
-      "Bluetooth",
-      "interface",
-      "(",
-      "courtesy",
-      "of",
-      "the",
-      "Mac",
-      "OS",
-      ")",
-      "and",
-      "the",
-      "range",
-      "is",
-      "poor",
-      "."
-    ],
+    "text": "Further , this Mac Mini has a sloppy Bluetooth interface ( courtesy of the Mac OS ) and the range is poor .",
     "labels": [
       "O",
       "O",
@@ -11442,20 +6337,7 @@
     ]
   },
   "308": {
-    "text": [
-      "My",
-      "only",
-      "gripe",
-      "would",
-      "be",
-      "the",
-      "need",
-      "to",
-      "add",
-      "more",
-      "RAM",
-      "."
-    ],
+    "text": "My only gripe would be the need to add more RAM .",
     "labels": [
       "O",
       "O",
@@ -11472,16 +6354,7 @@
     ]
   },
   "309": {
-    "text": [
-      "Fine",
-      "if",
-      "you",
-      "have",
-      "a",
-      "touch",
-      "screen",
-      "."
-    ],
+    "text": "Fine if you have a touch screen .",
     "labels": [
       "O",
       "O",
@@ -11494,26 +6367,7 @@
     ]
   },
   "310": {
-    "text": [
-      "This",
-      "by",
-      "far",
-      "beats",
-      "any",
-      "computer",
-      "out",
-      "on",
-      "the",
-      "market",
-      "today",
-      "built",
-      "well",
-      ",",
-      "battery",
-      "life",
-      "AMAZING",
-      "."
-    ],
+    "text": "This by far beats any computer out on the market today built well , battery life AMAZING .",
     "labels": [
       "O",
       "O",
@@ -11536,20 +6390,7 @@
     ]
   },
   "311": {
-    "text": [
-      "The",
-      "OS",
-      "is",
-      "easy",
-      ",",
-      "and",
-      "offers",
-      "all",
-      "kinds",
-      "of",
-      "surprises",
-      "."
-    ],
+    "text": "The OS is easy , and offers all kinds of surprises .",
     "labels": [
       "O",
       "B",
@@ -11566,50 +6407,7 @@
     ]
   },
   "312": {
-    "text": [
-      "A",
-      "veryimportant",
-      "feature",
-      "is",
-      "Firewire",
-      "800",
-      "which",
-      "in",
-      "my",
-      "experience",
-      "works",
-      "better",
-      "then",
-      "USB3",
-      "(",
-      "in",
-      "PC",
-      "enabled",
-      "with",
-      "USB3",
-      ")",
-      "I",
-      "was",
-      "not",
-      "originally",
-      "sold",
-      "on",
-      "the",
-      "MAC",
-      "OS",
-      "I",
-      "felt",
-      "it",
-      "was",
-      "inferior",
-      "in",
-      "many",
-      "ways",
-      "To",
-      "Windows",
-      "7",
-      "."
-    ],
+    "text": "A veryimportant feature is Firewire 800 which in my experience works better then USB3 ( in PC enabled with USB3 ) I was not originally sold on the MAC OS I felt it was inferior in many ways To Windows 7 .",
     "labels": [
       "O",
       "O",
@@ -11656,27 +6454,7 @@
     ]
   },
   "313": {
-    "text": [
-      "I",
-      "like",
-      "iTunes",
-      ",",
-      "the",
-      "apparent",
-      "security",
-      ",",
-      "the",
-      "Mini",
-      "form",
-      "factor",
-      ",",
-      "all",
-      "the",
-      "nice",
-      "graphics",
-      "stuff",
-      "."
-    ],
+    "text": "I like iTunes , the apparent security , the Mini form factor , all the nice graphics stuff .",
     "labels": [
       "O",
       "O",
@@ -11700,25 +6478,7 @@
     ]
   },
   "314": {
-    "text": [
-      "After",
-      "replacing",
-      "the",
-      "spinning",
-      "hard",
-      "disk",
-      "with",
-      "an",
-      "ssd",
-      "drive",
-      ",",
-      "my",
-      "mac",
-      "is",
-      "just",
-      "flying",
-      "."
-    ],
+    "text": "After replacing the spinning hard disk with an ssd drive , my mac is just flying .",
     "labels": [
       "O",
       "O",
@@ -11740,27 +6500,7 @@
     ]
   },
   "315": {
-    "text": [
-      "I",
-      "know",
-      "some",
-      "people",
-      "complained",
-      "about",
-      "HDMI",
-      "issues",
-      "but",
-      "they",
-      "released",
-      "a",
-      "firmware",
-      "patch",
-      "to",
-      "address",
-      "that",
-      "issue",
-      "."
-    ],
+    "text": "I know some people complained about HDMI issues but they released a firmware patch to address that issue .",
     "labels": [
       "O",
       "O",
@@ -11784,26 +6524,7 @@
     ]
   },
   "316": {
-    "text": [
-      "With",
-      "the",
-      "needs",
-      "of",
-      "a",
-      "professional",
-      "photographer",
-      "I",
-      "generally",
-      "need",
-      "to",
-      "keep",
-      "up",
-      "with",
-      "the",
-      "best",
-      "specs",
-      "."
-    ],
+    "text": "With the needs of a professional photographer I generally need to keep up with the best specs .",
     "labels": [
       "O",
       "O",
@@ -11826,13 +6547,7 @@
     ]
   },
   "317": {
-    "text": [
-      "packing",
-      "and",
-      "everything",
-      "was",
-      "perfect"
-    ],
+    "text": "packing and everything was perfect",
     "labels": [
       "B",
       "O",
@@ -11842,32 +6557,7 @@
     ]
   },
   "318": {
-    "text": [
-      "I",
-      "called",
-      "Toshiba",
-      "where",
-      "I",
-      "gave",
-      "them",
-      "the",
-      "serial",
-      "number",
-      "and",
-      "they",
-      "informed",
-      "me",
-      "that",
-      "they",
-      "were",
-      "having",
-      "issues",
-      "with",
-      "the",
-      "mother",
-      "boards",
-      "."
-    ],
+    "text": "I called Toshiba where I gave them the serial number and they informed me that they were having issues with the mother boards .",
     "labels": [
       "O",
       "O",
@@ -11896,33 +6586,7 @@
     ]
   },
   "319": {
-    "text": [
-      "I",
-      "seem",
-      "to",
-      "be",
-      "having",
-      "repeat",
-      "problems",
-      "as",
-      "the",
-      "Mother",
-      "Board",
-      "in",
-      "this",
-      "one",
-      "is",
-      "diagnosed",
-      "as",
-      "faulty",
-      ",",
-      "related",
-      "to",
-      "the",
-      "graphics",
-      "card",
-      "."
-    ],
+    "text": "I seem to be having repeat problems as the Mother Board in this one is diagnosed as faulty , related to the graphics card .",
     "labels": [
       "O",
       "O",
@@ -11952,47 +6616,7 @@
     ]
   },
   "320": {
-    "text": [
-      "It",
-      "also",
-      "comes",
-      "with",
-      "4G",
-      "of",
-      "RAM",
-      "but",
-      "if",
-      "you",
-      "'re",
-      "like",
-      "me",
-      "you",
-      "want",
-      "to",
-      "max",
-      "that",
-      "out",
-      "so",
-      "I",
-      "immediately",
-      "put",
-      "8G",
-      "of",
-      "RAM",
-      "in",
-      "her",
-      "and",
-      "I",
-      "'ve",
-      "never",
-      "used",
-      "a",
-      "computer",
-      "that",
-      "performs",
-      "better",
-      "."
-    ],
+    "text": "It also comes with 4G of RAM but if you 're like me you want to max that out so I immediately put 8G of RAM in her and I 've never used a computer that performs better .",
     "labels": [
       "O",
       "O",
@@ -12036,20 +6660,7 @@
     ]
   },
   "321": {
-    "text": [
-      "This",
-      "computer",
-      "is",
-      "also",
-      "awesome",
-      "for",
-      "my",
-      "sons",
-      "virtual",
-      "home",
-      "schooling",
-      "."
-    ],
+    "text": "This computer is also awesome for my sons virtual home schooling .",
     "labels": [
       "O",
       "O",
@@ -12066,17 +6677,7 @@
     ]
   },
   "322": {
-    "text": [
-      "Cost",
-      "is",
-      "more",
-      "as",
-      "compared",
-      "to",
-      "other",
-      "brands",
-      "."
-    ],
+    "text": "Cost is more as compared to other brands .",
     "labels": [
       "B",
       "O",
@@ -12090,40 +6691,7 @@
     ]
   },
   "323": {
-    "text": [
-      "also",
-      "...",
-      "-",
-      "excellent",
-      "operating",
-      "system",
-      "--",
-      "size",
-      "and",
-      "weight",
-      "for",
-      "optimal",
-      "mobility",
-      "--",
-      "excellent",
-      "durability",
-      "of",
-      "the",
-      "battery",
-      "--",
-      "the",
-      "functions",
-      "provided",
-      "by",
-      "the",
-      "trackpad",
-      "is",
-      "unmatched",
-      "by",
-      "any",
-      "other",
-      "brand-"
-    ],
+    "text": "also ... - excellent operating system -- size and weight for optimal mobility -- excellent durability of the battery -- the functions provided by the trackpad is unmatched by any other brand-",
     "labels": [
       "O",
       "O",
@@ -12160,27 +6728,7 @@
     ]
   },
   "324": {
-    "text": [
-      "This",
-      "hardware",
-      "seems",
-      "to",
-      "be",
-      "better",
-      "than",
-      "the",
-      "iMac",
-      "in",
-      "that",
-      "it",
-      "is",
-      "n't",
-      "$",
-      "1400",
-      "and",
-      "smaller",
-      "."
-    ],
+    "text": "This hardware seems to be better than the iMac in that it is n't $ 1400 and smaller .",
     "labels": [
       "O",
       "B",
@@ -12204,26 +6752,7 @@
     ]
   },
   "325": {
-    "text": [
-      "I",
-      "'ve",
-      "had",
-      "it",
-      "for",
-      "about",
-      "2",
-      "months",
-      "now",
-      "and",
-      "found",
-      "no",
-      "issues",
-      "with",
-      "software",
-      "or",
-      "updates",
-      "."
-    ],
+    "text": "I 've had it for about 2 months now and found no issues with software or updates .",
     "labels": [
       "O",
       "O",
@@ -12246,18 +6775,7 @@
     ]
   },
   "326": {
-    "text": [
-      "the",
-      "latest",
-      "version",
-      "does",
-      "not",
-      "have",
-      "a",
-      "disc",
-      "drive",
-      "."
-    ],
+    "text": "the latest version does not have a disc drive .",
     "labels": [
       "O",
       "O",
@@ -12272,24 +6790,7 @@
     ]
   },
   "327": {
-    "text": [
-      "Screen",
-      "-",
-      "although",
-      "some",
-      "people",
-      "might",
-      "complain",
-      "about",
-      "low",
-      "res",
-      "which",
-      "I",
-      "think",
-      "is",
-      "ridiculous",
-      "."
-    ],
+    "text": "Screen - although some people might complain about low res which I think is ridiculous .",
     "labels": [
       "B",
       "O",
