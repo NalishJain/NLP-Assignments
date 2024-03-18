@@ -3,4 +3,5 @@
 2. Q2 -> Bigram Model, Laplace Smoothing, Knesser Ney Smoothing implementation from scratch in python.
 
 # Assignment-2
-
+1. BIO encoding
+2. Aspect term extraction using RNNs, LSTMs, GRUs and Bilstm-Crf
